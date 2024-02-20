@@ -30,5 +30,5 @@ https://jaguariuna.sp.senai.br/cursos/13/899/formacao-inicial-e-continuada?Paren
 ## GitHub dos outros professores do SENAI Jaguariúna
 - [Reenye](https://github.com/ReenyeLima)
 - [Lucas Paiva](https://github.com/lucasPaiva00)
-- [Matheus Pignata](https://github.com/MatheusPignata)
+- [Robson Souza](https://github.com/robsonbsouzaa)
 - [Renato](https://github.com/remajag)
