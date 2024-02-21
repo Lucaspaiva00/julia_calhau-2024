@@ -16,7 +16,7 @@
 # Atividade
 - 1 - Quando surgiu os fundamentos das redes de computadores?
 - 2 - Qual o nome do primeiro computador registrado?
-- 3 - Descreva a histórias dos computadores de 1940 até hoje
+- 3 - Descreva a história dos computadores de 1940 até hoje
 - 4 - Como se fazia uma conexão discada, descreva desenhando um exemplo de conexão
 - 5 - Qual era a velocidade da internet DSL
 	- a) 100mb
