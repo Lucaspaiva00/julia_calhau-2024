@@ -29,7 +29,5 @@
 - 9 - Descreva 3 tipos de meios físicos de um elemento de rede
 - 10 - O que são redes Unicast, Multicast e Broadcast?
 
-<img src="/BZoN.gif">
-
-
+![Construindo](./BZoN.gif)
 
