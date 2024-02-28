@@ -1,4 +1,4 @@
-# AUla02
+# Aula02
 
 ## Conversão de bases numéricas
 ./conversoes.pdf
