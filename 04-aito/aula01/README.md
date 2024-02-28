@@ -28,6 +28,3 @@
 - 8 - Qual dos protocolos que você listou é utilizado para identificar seu computador em uma rede de computadores.
 - 9 - Descreva 3 tipos de meios físicos de um elemento de rede
 - 10 - O que são redes Unicast, Multicast e Broadcast?
-
-![Construindo](./BZoN.gif) <p> ![Construindo](./windows.gif)
-
