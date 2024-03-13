@@ -6,7 +6,7 @@
     - 1.3.2.Criação de diretórios e arquivos
     - 1.3.3.Exclusão de diretórios e arquivos
 
-- Comandos
+- Comandos no CMD:
     - CLS (Utilizado para limpar o console);
     - DIR (Utilizado para ver as pastas e arquivos);
     - MKDIR (Utilizado para criar pastas);
