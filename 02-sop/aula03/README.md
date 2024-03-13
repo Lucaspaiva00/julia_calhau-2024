@@ -6,6 +6,15 @@
     - 1.3.2.Criação de diretórios e arquivos
     - 1.3.3.Exclusão de diretórios e arquivos
 
+- Comandos
+    - CLS (Utilizado para limpar o console);
+    - DIR (Utilizado para ver as pastas e arquivos);
+    - MKDIR (Utilizado para criar pastas);
+    - TYPE > Nul "Nome do arquivo" (Utilizado para criar um arquivo);
+    - COPY (Utilizado para copiar um arquivo);
+    - DEL (Utilid0 para apagar ARQUIVOS);
+
+
 ## Aproveitando os conhecimentos de sistemas operacionais, vamos trabalhar com arquivos HTML
 
 - Projeto açougue (Estrutura básica de um site) ./projeto_acougue
