@@ -12,7 +12,7 @@
     - MKDIR (Utilizado para criar pastas);
     - TYPE > Nul "Nome do arquivo" (Utilizado para criar um arquivo);
     - COPY (Utilizado para copiar um arquivo);
-    - DEL (Utilid0 para apagar ARQUIVOS);
+    - DEL (Utilido para apagar ARQUIVOS);
 
 
 ## Aproveitando os conhecimentos de sistemas operacionais, vamos trabalhar com arquivos HTML
