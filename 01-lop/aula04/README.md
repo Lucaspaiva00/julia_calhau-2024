@@ -5,4 +5,4 @@ Representação gráfica de algoritmos
 Facilitar o entendimento de um programa ou processo de trabalho
 
 ## Atividades
-![Fluxograma](.aula03/fluxograma.png)
+![Fluxograma](.fluxograma.png)
