@@ -24,4 +24,4 @@
 ## Entrega
 - Tire um print dos comandos do CMD e envie no formulário a seguir
 - Compacte a pasta **"Atividade-SOP"** em um arquivo .zip e envie no formulário
-[Formulário de entrega](https://forms.gle/LzZUSq7czmk9vwJv5)
+[Formulário de entrega]([https://forms.gle/LzZUSq7czmk9vwJv5](https://forms.gle/FUK8btxhZk9fMUrt9)https://forms.gle/FUK8btxhZk9fMUrt9)
