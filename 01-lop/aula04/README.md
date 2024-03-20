@@ -21,8 +21,9 @@ Facilitar o entendimento de um programa ou processo de trabalho
 ## CORREÇÕES
 
 - Exercício 1:
-#include<stdio.h>
-#include<locale.h>
+
+include<stdio.h>
+include<locale.h>
 int main(){
 	setlocale(LC_ALL,"");
 	int velocidade;
@@ -39,8 +40,9 @@ int main(){
 	return 0;}
 
 - Exercício 2:
-#include <stdio.h>
-#include <locale.h>
+  
+include <stdio.h>
+include <locale.h>
 int main(){
 	
 	char nome[50];
