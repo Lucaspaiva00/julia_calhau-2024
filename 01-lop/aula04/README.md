@@ -22,22 +22,22 @@ Facilitar o entendimento de um programa ou processo de trabalho
 
 - Exercício 1:
 
-#include<stdio.h>
-#include<locale.h>
-int main(){
-	setlocale(LC_ALL,"");
-	int velocidade;
-	int distancia;
-	
-	printf("Digite a velocidade: ");
-	scanf("%d", &velocidade);	
-	
-	printf("Digite a distância: ");
-	scanf("%d", &distancia);
-	
-	printf("A sua velocidade é: %d", velocidade/distancia);
+	#include<stdio.h>
+	#include<locale.h>
+		int main(){
+		setlocale(LC_ALL,"");
+		int velocidade;
+		int distancia;
 		
-	return 0;}
+		printf("Digite a velocidade: ");
+		scanf("%d", &velocidade);	
+		
+		printf("Digite a distância: ");
+		scanf("%d", &distancia);
+		
+		printf("A sua velocidade é: %d", velocidade/distancia);
+			
+		return 0;}
 
 - Exercício 2:
   
