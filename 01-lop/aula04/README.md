@@ -21,7 +21,6 @@ Facilitar o entendimento de um programa ou processo de trabalho
 ## CORREÇÕES
 
 - Exercício 1:
-  
 #include<stdio.h>
 #include<locale.h>
 int main(){
@@ -40,7 +39,6 @@ int main(){
 	return 0;}
 
 - Exercício 2:
-  
 #include <stdio.h>
 #include <locale.h>
 int main(){
