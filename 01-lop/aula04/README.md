@@ -65,9 +65,7 @@ int main(){
 	//Exibir nome da pessoa e o seu salario
 	printf("Novo salario de %s: R$%.2f\n", nome, novo_salario); 
 	
-	return 0;
-	
-}
+	return 0;}
 
 - Exercício 3:
   
@@ -94,9 +92,7 @@ int main(){
 	printf("O nome do time é: %s\n", nome_time);
 	printf("O time obteve: %d\n", qtd_vitorias*vitoria, "vitórias!");
 	printf("O time obteve: %d\n", qtd_empates*empate, "empates!");	
-	return 0;
-	
-}
+	return 0;}
 
 - Exercício 4:
   
@@ -134,8 +130,7 @@ int main() {
     printf("Área total do cilindro: %.2f cm^2\n", area_total);
     printf("Volume do cilindro: %.2f cm^3\n", volume);
 
-    return 0;
-}
+    return 0;}
 
 - Exerício 5:
   
@@ -160,8 +155,7 @@ int main() {
     printf("Nome da mercadoria: %s\n", nome_mercadoria);
     printf("Novo preço da mercadoria: R$ %.2f\n", novo_preco);
 
-    return 0;
-}
+    return 0;}
 
 - Exercício 6:
   
@@ -189,5 +183,4 @@ int main() {
     // Exibe a porcentagem de participação na tela
     printf("Porcentagem de participação dos eleitores de %s na última eleição: %.2f%%\n", nome_cidade, participacao);
 
-    return 0;
-}
+    return 0;}
