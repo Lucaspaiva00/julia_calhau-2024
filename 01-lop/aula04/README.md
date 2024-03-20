@@ -21,7 +21,7 @@ Facilitar o entendimento de um programa ou processo de trabalho
 ## CORREÇÕES
 
 - Exercício 1:
-
+```c
 #include<stdio.h>
 #include<locale.h>
 	int main(){
@@ -38,9 +38,9 @@ Facilitar o entendimento de um programa ou processo de trabalho
 	printf("A sua velocidade é: %d", velocidade/distancia);
 		
 	return 0;}
-
+```
 - Exercício 2:
-  
+```c
 include <stdio.h>
 include <locale.h>
 int main(){
@@ -66,9 +66,9 @@ int main(){
 	printf("Novo salario de %s: R$%.2f\n", nome, novo_salario); 
 	
 	return 0;}
-
+```
 - Exercício 3:
-  
+```c  
 #include<stdio.h>
 #include<locale.h>
 int main(){
@@ -93,9 +93,9 @@ int main(){
 	printf("O time obteve: %d\n", qtd_vitorias*vitoria, "vitórias!");
 	printf("O time obteve: %d\n", qtd_empates*empate, "empates!");	
 	return 0;}
-
+```
 - Exercício 4:
-  
+```c  
 #include <stdio.h>
 #include <math.h>
 #include<locale.h>
@@ -131,9 +131,9 @@ int main() {
     printf("Volume do cilindro: %.2f cm^3\n", volume);
 
     return 0;}
-
+```
 - Exerício 5:
-  
+```c  
 #include <stdio.h>
 #include<locale.h>
 int main() {
@@ -156,9 +156,9 @@ int main() {
     printf("Novo preço da mercadoria: R$ %.2f\n", novo_preco);
 
     return 0;}
-
+```
 - Exercício 6:
-  
+```c  
 #include <stdio.h>
 #include<locale.h>
 int main() {
@@ -184,3 +184,4 @@ int main() {
     printf("Porcentagem de participação dos eleitores de %s na última eleição: %.2f%%\n", nome_cidade, participacao);
 
     return 0;}
+```
