@@ -10,3 +10,5 @@
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|Demonstrar inteligência emocional|Não permitiu que fatores externos influênciase criticamente seu desempenho|
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|Demonstrar autonomia|Pesquisou em diversas fontes, internet, biblioteca ou outros a fim de resolver os problemas.|
 - [Link da avaliação](https://forms.gle/ZmLFpg4Lx7dtVgoM6)
+
+- [Link para aula de IOT](https://forms.gle/Z7X4bJBPVBfeFEZt5)
