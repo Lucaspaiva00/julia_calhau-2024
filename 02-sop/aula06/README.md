@@ -1,4 +1,28 @@
 # Aula 06 - VPF01
+## Conhecimentos Utilizados na Avaliação Formativa:
+- 1 Sistema operacional de código fechado
+	- 1.1. Definição
+	- 1.2. Instalação
+	- 1.3. Modo texto
+		- 1.3.1.Navegação entre diretórios
+		- 1.3.2.Criação de diretórios e arquivos
+		- 1.3.3.Exclusão de diretórios e arquivos
+		- 1.3.4.Renomeação de diretórios e  arquivos
+		- 1.3.5.Movimentação de diretórios e arquivos
+		- 1.3.6.Cópia de diretórios e arquivos
+		- 1.3.7.Edição de arquivos
+- 2. Sistema operacional de código aberto
+    - 2.1. Definição
+    - 2.2. Instalação
+    - 2.3. Modo texto (linha de comando)
+    - 2.3.1. Navegação entre diretórios
+    - 2.3.2. Criação de diretórios e arquivos
+    - 2.3.3. Exclusão de diretórios e arquivos
+    - 2.3.4. Renomeação de diretórios e arquivos
+    - 2.3.5. Movimentação de diretórios e arquivos
+    - 2.3.6. Cópia de diretórios e arquivos
+    - 2.3.7. Edição de arquivos
+      
 ## Critérios
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
 |-|-|-|
