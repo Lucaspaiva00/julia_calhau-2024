@@ -11,7 +11,7 @@
 		- 1.3.5.Movimentação de diretórios e arquivos
 		- 1.3.6.Cópia de diretórios e arquivos
 		- 1.3.7.Edição de arquivos
-- 2. Sistema operacional de código aberto
+- 2 Sistema operacional de código aberto
     - 2.1. Definição
     - 2.2. Instalação
     - 2.3. Modo texto (linha de comando)
