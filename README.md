@@ -31,7 +31,6 @@ https://jaguariuna.sp.senai.br/cursos/13/899/formacao-inicial-e-continuada?Paren
 - [Reenye](https://github.com/ReenyeLima)
 - [Lucas Paiva](https://github.com/lucasPaiva00)
 - [Robson Souza](https://github.com/robsonbsouzaa)
-- [Renato](https://github.com/remajag)
 
 - ## Competências transversais - Cursos autoinstitucionais
 - 1 Acessar o portal EAD https://ead.sp.senai.br
