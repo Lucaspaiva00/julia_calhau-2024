@@ -6,19 +6,6 @@ Os códigos fonte, exemplos e materiais didáticos serão adicionados a este rep
 ![1 Semestre](https://raw.githubusercontent.com/wellifabio/senai2024/main/assets/calendario01.png)
 ![2 Semestre](https://raw.githubusercontent.com/wellifabio/senai2024/main/assets/calendario02.png)
 
-## Competências transversais
-- Acessar o portal EAD https://ead.sp.senai.br
-- Tutorial de como acessar o Portal EAD a primeira vez https://ead.sp.senai.br/tutorial/comoacessar/
-- Verificar se está matriculado em algum curso e completar todos os que estiver matriculado
-- Caso já tenha concluído os cursos escolha mais algum dos cursos sugeridos no site do senai:
-https://jaguariuna.sp.senai.br/cursos/13/899/formacao-inicial-e-continuada?Parent=898
-    - Excel Básico
-    - Lógica de Programação
-    - Desvendando a Indústria 4.0
-    - Desvendando a BlockChain
-    - Economia circular
-- Enviar os arquivos dos certificados (imagem ou PDF) em: https://forms.gle/STMxikkU8qVfLuEb8
-
 ## Banco de talentos
 - Se você é:
     - aluno do SENAI em faze final de formação
