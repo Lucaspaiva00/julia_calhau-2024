@@ -14,6 +14,47 @@
  
 ## Encaminhe a reposta no formulário: [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSdBAD_rD9_HPZht8_JGd5mZpMN4X1ot42hkqzNOk3psvmGU-g/viewform)
 
+#Desafio
+
+```c
+Exercicio 060
+A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.
+
+Exercicio 061
+Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120
+
+Exercicio 062
+Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
+
+Exercicio 063
+Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
+
+Exercicio 064
+Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o fatorial várias vezes e limitando o fatorial a números inteiros positivos e menores que 16.
+
+Exercicio 065
+Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.
+
+Exercicio 066
+Altere o programa de cálculo dos números primos, informando, caso o número não seja primo, por quais número ele é divisível.
+
+Exercicio 067
+Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário.
+
+O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos.
+
+Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.
+
+Exercicio 068
+Faça um programa que calcule o mostre a média aritmética de N notas.
+
+Exercicio 069
+Faça um programa que peça para n pessoas a sua idade, ao final o programa deverá verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a média calculada.
+
+Exercicio 070
+Numa eleição existem três candidatos. Faça um programa que peça o número total de eleitores. Peça para cada eleitor votar e ao final mostrar o número de votos de cada candidato.
+
+```
 
 
 
