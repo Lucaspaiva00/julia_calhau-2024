@@ -17,9 +17,6 @@
 # Desafio
 
 ```c
-Exercicio 060
-A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.
-
 Exercicio 061
 Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120
 
@@ -29,9 +26,6 @@ Faça um programa que, dado um conjunto de N números, determine o menor valor, 
 Exercicio 063
 Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
 
-Exercicio 064
-Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o fatorial várias vezes e limitando o fatorial a números inteiros positivos e menores que 16.
-
 Exercicio 065
 Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.
 
@@ -40,9 +34,7 @@ Altere o programa de cálculo dos números primos, informando, caso o número n�
 
 Exercicio 067
 Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário.
-
 O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos.
-
 Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.
 
 Exercicio 068
