@@ -49,5 +49,5 @@ Um ano é bissexto se for divisível por 4, exceto em anos que são divisíveis 
 
 ```
 
-## [Exercício](https://docs.google.com/forms/d/e/1FAIpQLSdPGjzlIXmn9g87YkHeVE7nCLeJ-dN2o05G772mjlrmF0N_LQ/viewform)
+## [Clique aqui e envie](https://docs.google.com/forms/d/e/1FAIpQLSdPGjzlIXmn9g87YkHeVE7nCLeJ-dN2o05G772mjlrmF0N_LQ/viewform)
 
