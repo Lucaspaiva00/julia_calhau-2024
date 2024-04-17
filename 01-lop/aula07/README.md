@@ -17,9 +17,6 @@
 # Desafio
 
 ```c
-Exercicio 061
-Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120
-
 Exercicio 062
 Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
 
