@@ -3,7 +3,7 @@
 
 |Contextualização|
 |-|
-|Você foi contratado como programador **junior** do SEBRAE São Paulo e faz parte de uma equipe de desenvolvedores que precisa desenvolver programas que auxilie novos empreendedores.|
+|Você foi contratado como programador **junior** do SEBRAE São Paulo e faz parte de uma equipe de desenvolvedores de até 4 pessoas que precisa desenvolver programas que auxilie novos empreendedores.|
 
 |Desafio 01|Criticidade|
 |-|-|
