@@ -12,7 +12,7 @@
 - 4. As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia, e R$ 0,25 se forem compradas pelo menos doze. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra. 
 - 5. Escreva um programa para ler 3 valores inteiros (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente.
  
-## Encaminhe a reposta no formulário: [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSdBAD_rD9_HPZht8_JGd5mZpMN4X1ot42hkqzNOk3psvmGU-g/viewform)
+## Encaminhe a reposta no formulário: [Encaminhe Aqui!](https://forms.gle/wVAm4w84EsLFWMS8A)
 
 # Desafio
 
