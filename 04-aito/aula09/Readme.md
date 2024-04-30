@@ -6,7 +6,9 @@ Inscreva-se, com uma conta **pessoal**
 
 ## Primeira simulação com Arduíno
 Arduíno é uma placa com microcontrolador digital programável em linguagem C, possui vários pinos que podem ser programáveis onde conectamos sensores e atuadores
+
 ![QUatro leds](./4leds01.png)
+
 O circuito acima possui 4 leds, 4 resistores ligados as portas 10, 11, 12, 13 de um Arduino UNO, e conectados em uma **protoboard** e ligados no **GND** (terra) do Arduíno.<br>O código a seguir pisca as luzes alternadamente de duas em duas.
 ```c
 void setup(){
