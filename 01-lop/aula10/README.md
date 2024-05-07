@@ -16,9 +16,9 @@ A entrada para a escolha de uma das 4 operações disponíveis é dada da seguin
 
  - Caso “M”, utilize a fórmula:
 
-´´´(peso - 100) *0,9´´´
+´´´c(peso - 100) *0,9´´´
 
  - Caso “F”, utilize a fórmula:
 
-´´´(peso - 100) *0,85´´´
+´´´c(peso - 100) *0,85´´´
  
