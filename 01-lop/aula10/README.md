@@ -17,14 +17,10 @@ A entrada para a escolha de uma das 4 operações disponíveis é dada da seguin
 
  - Caso “M”, utilize a fórmula:
 
-```(peso - 100) * - 0.9```
+```Peso = (72.7 * altura) – 58```
 
  - Caso “F”, utilize a fórmula:
 
-```(peso - 100) * 0.85```
-
-Mostrando de acordo com o peso a seguinte informação
-
-![image](https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/58df2f0e-928d-499f-ad64-8f30e1936a9e)
+```Peso = (62.1 * altura) – 44.7```
 
  
