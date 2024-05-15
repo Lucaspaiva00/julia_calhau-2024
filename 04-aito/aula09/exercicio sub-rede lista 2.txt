@@ -1,0 +1,104 @@
+Endereço IP: 192.168.1.50/24
+a) Endereço de rede: 192.168.1.0
+b) Endereço de broadcast: 192.168.1.255
+c) Quantidade de hosts disponíveis: 254
+
+Endereço IP: 10.0.0.155/8
+a) Endereço de rede: 10.0.0.0
+b) Endereço de broadcast: 10.255.255.255
+c) Quantidade de hosts disponíveis: 16.777.214
+
+Endereço IP: 172.16.10.20/17
+a) Endereço de rede: 172.16.0.0
+b) Endereço de broadcast: 172.16.127.255
+c) Quantidade de hosts disponíveis: 32.766
+
+Endereço IP: 192.168.5.75/25
+a) Endereço de rede: 192.168.5.0
+b) Endereço de broadcast: 192.168.5.127
+c) Quantidade de hosts disponíveis: 126
+
+Endereço IP: 10.10.20.30/9
+a) Endereço de rede: 10.0.0.0
+b) Endereço de broadcast: 10.127.255.255
+c) Quantidade de hosts disponíveis: 536.870.910
+
+Endereço IP: 192.168.3.100/16
+a) Endereço de rede: 192.168.0.0
+b) Endereço de broadcast: 192.168.255.255
+c) Quantidade de hosts disponíveis: 65.534
+
+Endereço IP: 172.16.5.200/24
+a) Endereço de rede: 172.16.5.0
+b) Endereço de broadcast: 172.16.5.255
+c) Quantidade de hosts disponíveis: 254
+
+Endereço IP: 192.168.50.100/30
+a) Endereço de rede: 192.168.50.100
+b) Endereço de broadcast: 192.168.50.103
+c) Quantidade de hosts disponíveis: 2
+
+Endereço IP: 10.20.30.40/20
+a) Endereço de rede: 10.20.16.0
+b) Endereço de broadcast: 10.20.31.255
+c) Quantidade de hosts disponíveis: 4.094
+
+Endereço IP: 192.168.10.75/28
+a) Endereço de rede: 192.168.10.64
+b) Endereço de broadcast: 192.168.10.79
+c) Quantidade de hosts disponíveis: 14
+
+Endereço IP: 172.16.20.50/26
+a) Endereço de rede: 172.16.20.0
+b) Endereço de broadcast: 172.16.20.63
+c) Quantidade de hosts disponíveis: 62
+
+Endereço IP: 10.0.0.10/29
+a) Endereço de rede: 10.0.0.8
+b) Endereço de broadcast: 10.0.0.15
+c) Quantidade de hosts disponíveis: 6
+
+Endereço IP: 192.168.1.200/27
+a) Endereço de rede: 192.168.1.192
+b) Endereço de broadcast: 192.168.1.223
+c) Quantidade de hosts disponíveis: 30
+
+Endereço IP: 172.16.100.50/22
+a) Endereço de rede: 172.16.96.0
+b) Endereço de broadcast: 172.16.99.255
+c) Quantidade de hosts disponíveis: 1.022
+
+Endereço IP: 10.10.20.30/26
+a) Endereço de rede: 10.10.20.0
+b) Endereço de broadcast: 10.10.20.63
+c) Quantidade de hosts disponíveis: 62
+
+Endereço IP: 192.168.2.150/28
+a) Endereço de rede: 192.168.2.144
+b) Endereço de broadcast: 192.168.2.159
+c) Quantidade de hosts disponíveis: 14
+
+Endereço IP: 172.20.30.40/25
+a) Endereço de rede: 172.20.30.0
+b) Endereço de broadcast: 172.20.30.127
+c) Quantidade de hosts disponíveis: 126
+
+Endereço IP: 10.0.0.5/30
+a) Endereço de rede: 10.0.0.4
+b) Endereço de broadcast: 10.0.0.7
+c) Quantidade de hosts disponíveis: 2
+
+Endereço IP: 192.168.3.50/26
+a) Endereço de rede: 192.168.3.0
+b) Endereço de broadcast: 192.168.3.63
+c) Quantidade de hosts disponíveis: 62
+
+Endereço IP: 172.16.50.10/28
+a) Endereço de rede: 172.16.50.0
+b) Endereço de broadcast: 172.16.50.15
+c) Quantidade de hosts disponíveis: 14
+
+Endereço IP: 10.20.30.40/24
+a) Endereço de rede: 10.20.30.0
+b) Endereço de broadcast: 10.20.30.255
+c) Quantidade de hosts disponíveis: 254
