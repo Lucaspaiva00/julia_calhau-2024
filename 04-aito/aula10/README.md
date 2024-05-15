@@ -44,4 +44,5 @@
 
 
 ## Mande as Respostas através do Form
-[https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/006fc919-cf4e-43b6-8810-defe8c18dcc6](https://forms.gle/Na8v4wvD8QCimSGR7)
+[Clique](https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/006fc919-cf4e-43b6-8810-defe8c18dcc6)
+[Aperte aqui para começar](https://forms.gle/Na8v4wvD8QCimSGR7)
