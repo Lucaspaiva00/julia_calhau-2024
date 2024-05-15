@@ -47,4 +47,4 @@
 ![3ab885408e9bf6b811618b68fbd3207f](https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/a4c663ff-fcd9-4f59-8cab-489db6aecee6)
 
 ## 1ª Lista: [Aperte aqui para começar](https://forms.gle/Na8v4wvD8QCimSGR7)
-## 2ª Lista: (Em breve!)
+## 2ª Lista: [Aperte aqui para começar](https://forms.gle/r3hbPzpkhg4SqA9M9)
