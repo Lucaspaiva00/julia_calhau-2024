@@ -48,6 +48,10 @@ Vamos declarar algumas variáveis?
 Só isso: tipo, nome do array e quantos elementos ele deve ter.
  
 
+ Vamos colocar essas informações agora no:
+
+ ![c++](https://lordicon.com/icons/wired/flat/1324-c-code-language.gif)
+
  ### Exemplo 1
 
  ```cmd
