@@ -1,4 +1,4 @@
-# Aula12 - Away / vetor
+# Aula12 - Array / vetor
 
 
 Nesta aula vamos aprender o que é uma Array ou um Vetor para utilizarmos nas atividades
@@ -183,3 +183,11 @@ int main()
 
 }
 ```
+
+# Exercicios
+
+ - 1 - Faça um programa que leia 5 valores inteiros, armazeno-os em um vetor, calcule e apresente a soma
+destes valores.
+- 2 - Altere o programa anterior para calcular e apresentar a média dos valores entrados e aqueles que são
+maiores e menores que a média. 
+- 3 - Faça um programa que leia 10 valores reais e os apresente na ordem inversa entrada.  
