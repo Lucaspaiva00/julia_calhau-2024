@@ -129,8 +129,6 @@
             - Procedimentos para manter sistemas e software atualizados com as últimas correções de segurança e patches.
             - Conformidade com regulamentações de segurança cibernética, como o GDPR na União Europeia ou o HIPAA nos Estados Unidos, que estabelecem padrões mínimos de segurança e proteção de dados para organizações em determinados setores.
 
-
-|Atividade 1|
 ##  - [Lista de Exercícios de Segurança Cibernética](https://forms.gle/th6etMAkeCNWG8dh8)
 
         
