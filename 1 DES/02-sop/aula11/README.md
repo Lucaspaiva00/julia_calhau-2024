@@ -131,13 +131,6 @@
 
 
 |Atividade 1|
-|-|
-|Analisando as imagens abaixo, você tendo a posição de técnico de segurança cibernética entende que é um E-mail veridico, ou um E-mail malicioso.||
-<hr>
-Primeira Imagem:
-<center><img src="ex1.png"></center>
-<hr>
-Segunda Imagem
-<center><img src="ex02.png"></center>
+##  - [Lista de Exercícios de Segurança Cibernética](https://forms.gle/th6etMAkeCNWG8dh8)
 
         
