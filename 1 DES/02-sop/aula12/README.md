@@ -13,6 +13,6 @@
 
 <img src="ex03.png">
 
-##  - [Lista de Exercícios de Segurança Cibernética](https://forms.gle/th6etMAkeCNWG8dh8)
+
 
         
