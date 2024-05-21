@@ -1,16 +1,13 @@
 # Aula 11
 
-|Desafio|
+|Exercício|
 |-|
-|Criar um programa em HTML, CSS e JS que substirua a planilha em excel com as seguintes funcionalidades/requisitos funcionais e não funcionais||-| 
+|Criar um programa em HTML, CSS e JS que cadastre todas as suas receitas e despesas, para a sua gestão financeira.||-| 
 |RN001 - Linguagem HTML, CSS e JS|_Essencial_|
 |RN002 - Programação estrutural e funcional|_Essencial_|
-|**Funcionais**|**Prioridades**|
-|RF001 - 1.Novo investimento, 2. Concluir investimento, 3. Listar todos os Investimentos, 4.Listar Carteira Ativa, 5. Sair|_Essencial_|
-|RF003 - Cadastrar investimento com os campos investimento, dataInício, valorInvestido, precoEntrada, metaGanho, limitePerda|_Esencial_|
-|RF004 - Concluir investimento preenchendo o valorAtual e mostrando o valor do retorno final e se houve lucro ou prejuíso|_Esencial_|
-|RF005 - Listar todos os investimendos calculando os ganhos e perdas conforme a planilha, solicitando o valorAtual dos investimentos ativos|_Importante_|
-|RF006 - Listar carteira ativa. Listar somente os investimentos que não foram concluídos, solicitando o valorAtual|_Desejável_|
+|**Funcionais**
+|RF001 - Cadastrar Receitas e Despesas 1.Novo da Pessoa, 2. Receita, 3. Despesas , 4.Datas de Pagamento.|
+|RF005 - Listar todos os cadastros calculando se estara positivo ou negativo no final do mês.|_Importante_|
 
 ## Segurança cibernética
     6.1. Definição
