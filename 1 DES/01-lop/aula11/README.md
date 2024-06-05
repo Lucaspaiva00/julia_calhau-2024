@@ -7,5 +7,6 @@ Vamos fazer na aula de hoje exercícios para utilizando (FOR, WHILE e SWITCH CAS
 
 [Tarefa!](https://forms.gle/iiXD8QgBPCTv2rZs7)
 
- ![boaprova](https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/846c9291-32b4-4752-a743-93336225c7ff)
+ 
+![boa prova](https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/7d5ec982-3d85-43f7-bcf0-12cae2d5ca85)
 
