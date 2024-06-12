@@ -13,17 +13,11 @@ Verificação Prática Somativa 02
 |![Experimento](./portao.png)|
 |Obs: O código de que controla o acionamento do portão está no arquivo **arduino.c**|
 |2 - Acrescente nesta simulação dois leds um vermelho e um verde que deverão ficar piscando alternadamente para sinalizar a saida de garagem da empresa: ![leds](./leds.png)|
-|3 - O arquivo **dados.csv** possui uma tabela com dados que representam o histórico de quantas vezes o portão foi aberto durante o mês de maio de 2024, abra este arquivo no Excel e crie dois gráficos, um que mostre a atividade do portão diáriamente e um semanalmente. Os gráficos devem ficar semelhantes aos do wireframe, porém os valores são um pouco diferentes, pois a imagem é apens um esboço|
-|4 - Tire **print** dos gráficos e crie uma página web conforme o wireframe a seguir, a tabela deve ser em HTML utilizando pelo menos os dados da primeira semana.|
-
-|Wireframe|
-|:-:|
-|![Wireframe](./wireframe.png)|
 
 |Entregas|
 |-|
 |Repositório público do **github** com o nome **vps02iot** com duas pastas e um arquivo README.md como capa<br> - 1 a primeira pasta chamada **portao** com o arquivo **codigo.c** com o código fonte e um **print.png** com a imagem do seu projeto do Thinkercad<br> - 2 A segunda chamada **site** contendo o arquivo index.html, style.css com a página/dashboard de controle dos acessos ao portão.|
-|**[Form para entrega](https://docs.google.com/forms/d/e/1FAIpQLScRVFmGb3YJ2i78CUaj6Dej_fQRqqT9EXrSdrzTTEMSHOUK-Q/viewform?usp=sf_link)**|
+|**[Form para entrega]()**|
 
 ## Critérios
 |Criticidade|Capacidades Básicas e Socioemocionais|Critérios|
