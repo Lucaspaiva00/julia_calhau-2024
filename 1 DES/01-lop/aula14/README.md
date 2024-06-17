@@ -6,3 +6,5 @@
 
  
 ![boa prova](https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/7d5ec982-3d85-43f7-bcf0-12cae2d5ca85)
+
+<img src="https://github.com/favicon.ico" height="24" width="48">
