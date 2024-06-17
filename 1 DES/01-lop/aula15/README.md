@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/65db5d72-fbd1-4cb6-bf2c-03a77f257884" data-canonical-src="https://me-qr.com/RgB0DSYV"  width="300" height="300" />
+<img src="https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/65db5d72-fbd1-4cb6-bf2c-03a77f257884" href="https://me-qr.com/RgB0DSYV"  width="300" height="300" />
 <img src="https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/03cacdb0-1b84-444e-a8f9-528069e2c4bf" width="300" height="300" />
 <img src="https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/86141d5d-fb9d-47a6-a4c1-7ac685dd81aa" width="300" height="300" />
 <img src="https://github.com/Lucaspaiva00/julia_calhau-2024/assets/156427878/02898d41-aa14-4f85-af9f-a5840bbcf6ba" width="300" height="300" />
