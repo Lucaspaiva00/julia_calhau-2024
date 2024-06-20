@@ -4,7 +4,7 @@
 - [PBE1 (Programação Back-end 1)](./03-pbe1/)
 - [PSOF1 (Projetos de Software 1)](./04-psof1/)
 
-### Segunda-feira
+### Terça-feira
 |Início|Matéria|Aulas|Fim|
 |-|:-:|:-:|:-:|
 |07:30|BCD|2|09:00|
@@ -15,7 +15,7 @@
 |14:45|Intervalo||15:00|
 |15:00|LIMA|3|17:15|
 
-### Sexta-feira
+### Quarta-feira
 |Início|Matéria|Aulas|Fim|
 |-|:-:|:-:|:-:|
 |07:30|PBE1|2|09:00|
