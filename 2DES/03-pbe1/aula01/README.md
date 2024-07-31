@@ -53,7 +53,3 @@
 	- 9. Verificar se foi criado o arquivo package.json e a pasta node_modules
 	- 10. Executar o Servidor com o comando -> node index.js
 
-https://meet.google.com/ney-ncuu-jnj
-
- https://forms.office.com/r/wbaV1z846E
-		
