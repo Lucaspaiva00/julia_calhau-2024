@@ -1,0 +1,46 @@
+body{
+    box-sizing:border-box;
+    margin:0;
+    font-family: system-ui;
+    background: #71C199;
+}
+main{
+    display:flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+.nome-cor{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top:30px;
+    font-family: system-ui;
+    font-weight: bold;
+
+}
+
+.cores{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button{
+
+    color:white;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border:none;
+    background-color: #976077;
+    font-family: system-ui;
+
+}
