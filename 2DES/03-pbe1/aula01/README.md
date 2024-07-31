@@ -52,7 +52,6 @@
 	- 8. Editar o arquivo com os códigos necessários para responder a uma requisição GET
 	- 9. Verificar se foi criado o arquivo package.json e a pasta node_modules
 	- 10. Executar o Servidor com o comando -> node index.js
-	- 11. Abrir um navegador web e digitar o caminho: http://localhost:PORTA/projeto
 
 https://meet.google.com/ney-ncuu-jnj
 
