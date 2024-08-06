@@ -1,4 +1,4 @@
-# Aula07 - VPS01
+# Aula06 - VPS01
 ## [Verificação Prática Somativa 01](https://forms.gle/msFc39JNwVnvTWPN8)
 
 
