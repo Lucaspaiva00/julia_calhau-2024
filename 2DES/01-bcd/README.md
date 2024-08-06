@@ -134,3 +134,5 @@ Recomenda-se o uso de softwares específicos como: MySQL, Postgree, SQLserver, M
 - KORTH, Henry F.; SILBERSCHATZ, Abraham. Sistema de Banco de Dados. São Paulo: Makron Books, 1995.
 - BAPTISTA, Luciana Ferreira. Linguagem SQL: Guia Prático de Aprendizagem. São Paulo: Érica, 2013.
 - MANZANO, José Augusto N. G. Microsoft SQL Server 2008 Express: Interativo: Guia Prático. São Paulo: Érica, 2009.
+- 
+Link pra aula: https://meet.google.com/bqb-gyzh-yrr?pli=1
