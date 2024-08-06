@@ -135,4 +135,4 @@ Recomenda-se o uso de softwares específicos como: MySQL, Postgree, SQLserver, M
 - BAPTISTA, Luciana Ferreira. Linguagem SQL: Guia Prático de Aprendizagem. São Paulo: Érica, 2013.
 - MANZANO, José Augusto N. G. Microsoft SQL Server 2008 Express: Interativo: Guia Prático. São Paulo: Érica, 2009.
 - 
-Link pra aula: https://meet.google.com/bqb-gyzh-yrr?pli=1
+Link pra aula: https://meet.google.com/knm-tbtb-omw
