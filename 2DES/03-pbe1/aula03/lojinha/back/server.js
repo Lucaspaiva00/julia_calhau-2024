@@ -26,13 +26,13 @@ const create = (req, res) => {
     con.query(query, (err, result) => {
         if (err) {
             res.json(err);
-            
-            console.log("Cadastrado");
         } else {
-            res.json(result);
+            // res.json(result);
+            res.redirect("")
         }
 
     });
+    console.log("Cadastrado");
 }
 
 //CRUD - Read
