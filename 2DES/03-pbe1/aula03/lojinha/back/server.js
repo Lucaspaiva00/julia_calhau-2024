@@ -28,7 +28,7 @@ const create = (req, res) => {
             res.json(err);
         } else {
             // res.json(result);
-            res.redirect("")
+            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula03/lojinha/front/form.html");
         }
 
     });
