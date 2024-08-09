@@ -23,18 +23,22 @@ const create = (req, res) => {
     let nascimento = req.query.nascimento;
     let query = `INSERT INTO clientes(cpf, nome, sobrenome, nascimento) VALUE`;
     query += `('${cpf}', '${nome}', '${sobrenome}', '${nascimento}');`;
-    con.query(query,(err, result)=>{
-        if(err)
+    con.query(query, (err, result) => {
+        if (err) {
             res.json(err);
-        else
+            
+            console.log("Cadastrado");
+        } else {
             res.json(result);
+        }
+
     });
 }
 
 //CRUD - Read
 const read = (req, res) => {
-    con.query("SELECT * FROM Clientes",(err, result)=>{
-        if(err)
+    con.query("SELECT * FROM Clientes", (err, result) => {
+        if (err)
             res.json(err);
         else
             res.json(result);
