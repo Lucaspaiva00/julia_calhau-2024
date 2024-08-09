@@ -1,4 +1,5 @@
 const express = require("express");
+// A biblioteca mysql é utilizada para se comunicar com o Banco de dados MariaDB.
 const mysql = require("mysql");
 const cors = require("cors");
 const porta = 3000;
@@ -17,13 +18,15 @@ const create = (req, res) => {
 
     let query = `INSERT INTO Livros(autorLivro, descricaoLivro) VALUE`;
     query += `('${autorLivro}','${descricaoLivro}');`;
-    con.query(query, (err, result) => {
+    con.query(query, (err, result) => {  
         if (err) {  
             res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/erro.html");
         } else {
             res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/index.html");
         }
     });
+    console.log("Livro cadastrado com sucesso!!!");
+    
 }
 
 const read = (req, res) => {
