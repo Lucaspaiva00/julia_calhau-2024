@@ -89,6 +89,8 @@
 
 ```
 
+Link para a sala: https://github.com/Lucaspaiva00/julia_calhau-2024.git
+
 ## Exercícios de sala
 
 ### Exercício 01
