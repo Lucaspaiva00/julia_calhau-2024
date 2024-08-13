@@ -89,7 +89,7 @@
 
 ```
 
-Link para a sala: https://github.com/Lucaspaiva00/julia_calhau-2024.git
+Link para a sala: https://meet.google.com/xfd-ruvy-pdp
 
 ## Exercícios de sala
 
