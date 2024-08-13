@@ -2,7 +2,7 @@
 
 <!-- ![alt text](9872469.gif) -->
 <div align = "center">
-<img src="9872469.gif" width="500">
+<img src="9872469.gif" width="300">
 </div>
 
 ## O que é um banco de dados?
