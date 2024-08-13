@@ -1,0 +1,16 @@
+# Aula04
+
+## Relembrando os Verbos HTTP (GET e POST) - Projeto Lojinha "Aula 03"
+Entendendo as diferenças sobre mandar um formulário usando "query" e utilizando o "body", quais as melhorias em comunicação com a API e o cliente.
+
+## Verbos HTTP (GET e POST)
+Trabalhando com o projeto **BIBLIOTECA** utilizaremos os verbos corretos **GET** para listar todos e **POST** para criar, para isso precisaremos da biblioteca body-parser.
+
+## Conhecimentos NodeJS
+- Biblioteca body-parser
+- Redirecionamento de Páginas
+
+Cole essa URL no google: http://localhost:3000/livros
+para exibir a pagina abaixo: 
+
+![alt text](image.png)

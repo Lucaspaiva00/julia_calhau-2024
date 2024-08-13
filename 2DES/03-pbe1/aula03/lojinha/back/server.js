@@ -23,18 +23,22 @@ const create = (req, res) => {
     let nascimento = req.query.nascimento;
     let query = `INSERT INTO clientes(cpf, nome, sobrenome, nascimento) VALUE`;
     query += `('${cpf}', '${nome}', '${sobrenome}', '${nascimento}');`;
-    con.query(query,(err, result)=>{
-        if(err)
+    con.query(query, (err, result) => {
+        if (err) {
             res.json(err);
-        else
-            res.json(result);
+        } else {
+            // res.json(result);
+            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula03/lojinha/front/form.html");
+        }
+
     });
+    console.log("Cadastrado");
 }
 
 //CRUD - Read
 const read = (req, res) => {
-    con.query("SELECT * FROM Clientes",(err, result)=>{
-        if(err)
+    con.query("SELECT * FROM Clientes", (err, result) => {
+        if (err)
             res.json(err);
         else
             res.json(result);

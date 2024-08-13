@@ -89,6 +89,8 @@
 
 ```
 
+Link para a sala: https://meet.google.com/edf-hwji-bbs
+
 ## Exercícios de sala
 
 ### Exercício 01
@@ -99,6 +101,17 @@
 
 !![ex2](./exp02.jpg)
 
-### Exercício 01
+### Exercício 03
 
 !![ex3](./exp03.jpg)
+
+<hr/>
+
+## Entregas
+- Crie um repositório público no GitHub chamado `exercício-forms`.
+
+- No repositório faça o upload dos arquivos referente aos exercícios 1,2 e 3.
+
+- Link do formulário: <a href="https://forms.gle/dLq8YJSWH6e6z1hp6">Clique aqui!!</a>
+
+- Link do formulário²: <a href="https://forms.gle/URtCESYYvuSNEYLh9">Clique aqui!!</a>
