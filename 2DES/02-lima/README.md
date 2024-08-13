@@ -1,5 +1,5 @@
 
-![[untitled-1](https://github.com/user-attachments/assets/6b8d0513-6955-4aea-b1cd-35732ae625af)(https://meet.google.com/brb-ifva-rzq)]
+[![untitled-1](https://github.com/user-attachments/assets/6b8d0513-6955-4aea-b1cd-35732ae625af)(https://meet.google.com/brb-ifva-rzq)]
 # https://meet.google.com/brb-ifva-rzq
 
 # LINGUAGEM DE MARCACAO
