@@ -1,5 +1,5 @@
 
-[![untitled-1](https://meet.google.com/brb-ifva-rzq)]
+![untitled-1](https://meet.google.com/brb-ifva-rzq)
 # https://meet.google.com/brb-ifva-rzq
 
 # LINGUAGEM DE MARCACAO
