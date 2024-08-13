@@ -89,7 +89,7 @@
 
 ```
 
-Link para a sala: https://meet.google.com/xfd-ruvy-pdp
+Link para a sala: https://meet.google.com/erq-jzyf-sgn
 
 ## Exercícios de sala
 
