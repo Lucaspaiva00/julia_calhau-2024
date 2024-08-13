@@ -1,6 +1,7 @@
 # Aula 01 - Banco de Dados
 
-![alt text](9872469.gif)
+/*![alt text](9872469.gif)/*
+<img src="9872469.gif" width="500">
 
 ## O que é um banco de dados?
 
