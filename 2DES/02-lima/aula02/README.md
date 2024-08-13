@@ -1,4 +1,7 @@
 # Aula 02
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/8f06a131-ed6b-4acf-8405-f39142551b7c" />
+</div>
 
 ## Tags para estilização de texto
 

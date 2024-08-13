@@ -1,6 +1,6 @@
 # Aula04
 
-## Verbos HTTP (GET e POST) - Projeto Lojinha
+## Relembrando os Verbos HTTP (GET e POST) - Projeto Lojinha "Aula 03"
 Entendendo as diferenças sobre mandar um formulário usando "query" e utilizando o "body", quais as melhorias em comunicação com a API e o cliente.
 
 ## Verbos HTTP (GET e POST)
