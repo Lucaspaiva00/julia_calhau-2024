@@ -20,12 +20,13 @@ const create = (req, res) => {
     query += `('${autorLivro}','${descricaoLivro}');`;
     con.query(query, (err, result) => {  
         if (err) {  
-            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/erro.html");
+            res.redirect("http://127.0.0.1:5500/aula04/biblioteca/front/index.html");
         } else {
-            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/index.html");
+            res.redirect("http://127.0.0.1:5500/aula04/biblioteca/front/index.html");
         }
     });
-    console.log("Livro cadastrado com sucesso!!!");
+    
+    console.log("Novo livro inserido: ",autorLivro);
     
 }
 
