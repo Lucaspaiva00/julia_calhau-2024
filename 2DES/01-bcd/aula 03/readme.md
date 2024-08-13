@@ -1,4 +1,4 @@
-# Aula02 - MER x DER e Dicionário de Dados
+# Aula03 - MER x DER e Dicionário de Dados
 
 - MER - Modelo Entidade Relacionamento
 - DER - Diagrama Entidade Relacionamento
