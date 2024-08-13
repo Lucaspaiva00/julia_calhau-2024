@@ -1,8 +1,8 @@
 # Aula03 - MER x DER e Dicionário de Dados
 
-
+<div align = "center">
 <img src ="90223.gif" width="500"/>
-
+</div>
 - MER - Modelo Entidade Relacionamento
 - DER - Diagrama Entidade Relacionamento
 - Dicionário de Dados
