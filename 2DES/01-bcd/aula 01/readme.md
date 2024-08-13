@@ -1,7 +1,7 @@
 # Aula 01 - Banco de Dados
 
 <!-- ![alt text](9872469.gif) -->
-<div class = "center>
+<div class = "center">
 <img src="9872469.gif" width="500">
 </div>
 
