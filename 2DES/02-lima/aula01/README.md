@@ -1,5 +1,5 @@
 # Aula 01
-<div align = "center>
+<div align = "center">
 <img src = "https://miro.medium.com/v2/resize:fit:1400/1*ItYVqRj6Mh0GzyaZZ8IFQQ.gif" width="500"/>
 </div>
 ## Estrutura Básica do HTML
