@@ -1,7 +1,9 @@
 # Aula 02 - Banco de Dodos
 
 <!-- ![alt text](90222.gif) -->
+<div align="center">
 <img src="90222.gif" width="500" />
+</div>
 
 ## Tipo de dados (SQL)
 
