@@ -104,3 +104,12 @@ Link para a sala: https://meet.google.com/erq-jzyf-sgn
 ### Exercício 03
 
 !![ex3](./exp03.jpg)
+
+<hr/>
+
+## Entregas
+- Crie um repositório público no GitHub chamado `exercício-forms`.
+
+- No repositório faça o upload dos arquivos referente aos exercícios 1,2 e 3.
+
+Link do formulário: <a href="https://forms.gle/dLq8YJSWH6e6z1hp6">Clique aqui!!</a>
