@@ -5,17 +5,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Index</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1>Cadastro de livros</h1>
-    <form action="http://localhost:3000/livros" method="post">
-        <input type="text" name="autorLivro" placeholder="Autor" required>
+    <div class="container">
 
-        <input type="text" name="descricaoLivro" placeholder="Descrição" required>
+        <div class="div1">
+            <h1>Cadastre um autor</h1>
+        </div>
 
-        <input type="submit" value="Enviar">
-    </form>
+    </div>
+
+    <div class="container2">
+        <div class="container_formulario">
+
+            <form action="http://localhost:3000/livros" method="post">
+
+                <input type="text" name="autorLivro" placeholder="Digite o seu nome: ">
+                <br>
+                <input type="text" name="descricaoLivro" placeholder="Descrição do Livro">
+                <br>
+                <input type="submit" value="Enviar" id="botao">
+
+            </form>
+        </div>
+    </div>
+
+
 </body>
 
 </html>
