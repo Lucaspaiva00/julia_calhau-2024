@@ -21,7 +21,7 @@ const create = (req, res) => {
     let nome = req.query.nome;
     let sobrenome = req.query.sobrenome;
     let nascimento = req.query.nascimento;
-    let query = `INSERT INTO clientes(cpf, nome, sobrenome, nascimento) VALUE`;
+    let query = `INSERT INTO Clientes(cpf, nome, sobrenome, nascimento) VALUE`;
     query += `('${cpf}', '${nome}', '${sobrenome}', '${nascimento}');`;
     con.query(query, (err, result) => {
         if (err) {
