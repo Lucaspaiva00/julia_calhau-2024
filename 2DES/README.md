@@ -7,13 +7,13 @@
 ### Terça-feira
 |Início|Matéria|Aulas|Fim|
 |-|:-:|:-:|:-:|
-|07:30|BCD|2|09:00|
+|07:30|LIMA|2|09:00|
 |09:30|Intervalo||09:45|
-|09:45|BCD|3|11:30|
+|09:45|LIMA|3|11:30|
 |11:30|Almoço||13:15|
-|13:15|LIMA|2|14:45|
+|13:15|BCD|2|14:45|
 |15:30|Intervalo||15:45|
-|15:00|LIMA|3|17:15|
+|15:00|BCD|3|17:15|
 
 ### Quarta-feira
 |Início|Matéria|Aulas|Fim|

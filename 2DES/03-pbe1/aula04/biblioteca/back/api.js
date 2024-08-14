@@ -1,11 +1,18 @@
+// Dependencias a serem instaladas:
+// npm init
+// npm i express cors mysql
+// npm install body-parser - Faz a analise dos dados de entrada contidos no corpo da requisição,
+//disponibilizando as propriedades em req.body
+// Comando para rodar o servidor é o node api.js
+
+// Declarando as bibliotecas!!
 const express = require("express");
-// A biblioteca mysql é utilizada para se comunicar com o Banco de dados MariaDB.
 const mysql = require("mysql");
 const cors = require("cors");
 const porta = 3000;
 const bodyParser = require("body-parser");
 
-// Responsável por conectar com o Banco
+// Conectar com o Banco de dadosnode api.js
 const con = mysql.createConnection({
     user: 'root',
     host: 'localhost',
@@ -13,20 +20,21 @@ const con = mysql.createConnection({
 })
 
 const create = (req, res) => {
+    // Declarar os campos necessários
     let autorLivro = req.body.autorLivro;
     let descricaoLivro = req.body.descricaoLivro;
 
-    let query = `INSERT INTO Livros(autorLivro, descricaoLivro) VALUE`;
+    // Conexão com o banco de dados
+    let query = `INSERT INTO Livros (autorLivro, descricaoLivro) VALUE`
     query += `('${autorLivro}','${descricaoLivro}');`;
-    con.query(query, (err, result) => {  
-        if (err) {  
-            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/erro.html");
+    con.query(query, (err, result) => {
+        if (err) {
+            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/erro.html")
         } else {
-            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/index.html");
+            res.redirect("http://127.0.0.1:5500/2DES/03-pbe1/aula04/biblioteca/front/index.html")
         }
-    });
-    console.log("Livro cadastrado com sucesso!!!");
-    
+    })
+
 }
 
 const read = (req, res) => {
@@ -39,19 +47,19 @@ const read = (req, res) => {
     })
 }
 
-// Resposável por aparecer na WEB
+// Esse teste, ira aparecer na pagina web
 const teste = (req, res) => {
-    res.send("Back respondendo");
+    res.send("Api respondendo com sucesso!!");
 }
 
-// Configuração de saída para o front
+// Configuração de saída para o front-end
 const app = express();
 app.use(express.json());
-app.use(cors())
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(cors());
+app.use(bodyParser.urlencoded({ extended: true }))
 
-// Rotas de saída (routes)
-app.get("/", teste)
+// Rotas de saída
+app.get("/", teste);
 app.post("/livros", create);
 app.get("/livros", read);
 

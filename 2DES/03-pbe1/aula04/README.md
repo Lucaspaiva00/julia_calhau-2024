@@ -1,5 +1,7 @@
 # Aula04
 
+Link pra aula - Turma B - <a href="https://meet.google.com/bea-jyev-jns">Clique aqui</a>
+
 ## Relembrando os Verbos HTTP (GET e POST) - Projeto Lojinha "Aula 03"
 Entendendo as diferenças sobre mandar um formulário usando "query" e utilizando o "body", quais as melhorias em comunicação com a API e o cliente.
 
@@ -14,3 +16,21 @@ Cole essa URL no google: http://localhost:3000/livros
 para exibir a pagina abaixo: 
 
 ![alt text](image.png)
+
+- SQL
+```C
+drop database if exists biblioteca;
+create database biblioteca;
+use biblioteca;
+
+create table Livros(
+    id integer primary key auto_increment,
+    autorLivro varchar(252) not null,
+    descricaoLivro varchar(252) not null
+);
+
+describe Livros;
+
+insert into Livros (autorLivro, descricaoLivro) values
+("Jacinto Pena","Livro de comida");
+```
