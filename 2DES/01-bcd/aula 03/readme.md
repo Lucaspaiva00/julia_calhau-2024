@@ -66,7 +66,7 @@ Uma oficina mecânica deseja informatizar o seu sistema de ordem de serviço. A 
 ### Problema 3 - Academia 
 Uma academia deseja informatizar o seu sistema de treino. A academia possui alunos que fazem treinos. Cada aluno possui um código, nome, idade e plano. A academia possui professores que fazem treinos. Cada treino possui um número, data, aluno e exercícios.
 
-### Problema 4 - Biblioteca do SESI 
+### Problema 4 - Biblioteca
 O bibliotecário deseja informatizar o seu sistema de empréstimo. A biblioteca possui livros, revistas, jornais, etc. Cada item possui um código, título, autor e quantidade em estoque. A biblioteca possui sócios que fazem empréstimos. Cada empréstimo possui um número, data, sócio e itens.
 
 ### Problema 5 - Mercadinho do Seu João 

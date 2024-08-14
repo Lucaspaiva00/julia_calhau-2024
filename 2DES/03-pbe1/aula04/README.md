@@ -1,6 +1,6 @@
 # Aula04
 
-Link pra aula - Turma B - <a href="https://meet.google.com/mii-ajzg-jbe">Clique aqui</a>
+Link pra aula - Turma B - <a href="https://meet.google.com/bea-jyev-jns">Clique aqui</a>
 
 ## Relembrando os Verbos HTTP (GET e POST) - Projeto Lojinha "Aula 03"
 Entendendo as diferenças sobre mandar um formulário usando "query" e utilizando o "body", quais as melhorias em comunicação com a API e o cliente.
