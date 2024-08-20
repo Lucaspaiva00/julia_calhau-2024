@@ -72,146 +72,126 @@
 - CSS externo é quando se utiliza um arquivo externo ao HTML, sendo necessário linkar um arquivo no outro como mostra o exemplo.
 
 ```html
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aula 4</title>
+    <title>Aula 04</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
-    <div class="container">
-
-        <div class="container2">
-            <img src="sesi-logo.png">
+    <header>
+        <!-- Div's são containers -->
+        <div class="containerheader">
+            <div class="containerLogo">
+                <img src="logo.png">
+            </div>
+            <div class="containerMenu">
+                <nav>
+                    <a href="index.html">Home</a>
+                    <a href="contato.html">Contato</a>
+                    <a href="quemsomos.html">Quem Somos</a>
+                </nav>
+            </div>
         </div>
-
-        <div class="container3">
-            <nav>
-                <a href="home.html">Home</a>
-                <a href="contatos.html">Contato</a>
-                <a href="quemsomos.html">Quem somos</a>
-            </nav>
-        </div>
-
-    </div>
-
-    <div class="containerbody">
-        <div class="divbanner">
+    </header>
+    <main>
+        <div class="containerBanner">
             <img src="banner.jpg">
         </div>
-    </div>
-
-    <div class="containertexto">
-        <div class="divtexto1">
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore sapiente alias iste cupiditate ipsa
-                necessitatibus, quis adipisci vitae doloribus veritatis consequuntur soluta molestias esse nihil ut
-                dignissimos maiores quo sed?</span>
+        <div class="containverdiv">
+            <div class="divtexto">
+                <span>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Rerum quibusdam soluta voluptas autem
+                    illum
+                    ratione sunt ducimus vitae illo fugit!<br> Inventore sed distinctio et veritatis pariatur quos ad
+                    aspernatur voluptatum.
+                </span>
+            </div>
+            <div class="divimagem">
+                <img src="logo.png">
+            </div>
         </div>
-        <div class="divimg">
-            <img src="sesi-logo.png">
-        </div>
-    </div>
-
+    </main>
 </body>
-
 </html>
 
 ```
 
 ```css
 * {
-    padding: 0;
-    margin: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
-.container {
+.containerheader {
     width: 100%;
     background: red;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-    & .container2 {
-        width: 20%;
-        padding: 15px;
-    }
-
-    & .container2 img {
-        width: 100px;
-        height: 50px;
-    }
-
-    & .container3 {
-        width: 50%;
-        padding: 15px;
-    }
-
-    & .container3 nav a {
-        color: white;
-        text-decoration: none;
-        font-size: 16px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: bold;
-        margin: 5px;
-    }
-
-    & .container3 nav a:hover {
-        color: gray;
-        font-size: 18px;
-    }
-
-}
-
-.containerbody {
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    padding: 15px;
 
-    & .divbanner img {
-        width: 900px;
-        height: auto;
-        border-radius: 16px;
-        box-shadow: 5px 5px 5px gray;
+    & .containerLogo {
+        width: 40%;
     }
 
-    & .divbanner img:hover {
-        transform: scale(1.1);
-        transition: transform 0.5s ease;
+    & .containerLogo img {
+        width: 250px;
+    }
+
+    & .containerMenu {
+        width: 60%;  
+    }
+
+    & .containerMenu nav {
+        padding: 15px;
+    }
+
+    & .containerMenu nav a {
+        color: white;
+        font-size: 18px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin: 15px;
+        text-decoration: none;
+    }
+
+    & .containerMenu nav a:hover{
+        color: white;
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 10px;
+        background: black;
+        border-radius: 16px;
     }
 
 }
 
-.containertexto {
+main{
     width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    padding-left: 27%;
-    padding-top: 30px;
 
-    & .divtexto1 span {
-        width: 30%;
-        font-size: 18px;
-        font-family: Arial, Helvetica, sans-serif;
+    & .containerBanner{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
     }
 
-    & .divimg {
+    & .containerBanner img {
         width: 70%;
+        border-radius: 16px;
+        box-shadow: 8px 8px 5px black;
     }
 
-    & .divimg img {
-        width: 250px;
-        height: 100px;
+    & .containerBanner img:hover{
+        width: 80%;
+        transition: 2.0s;
+        border-radius: 16px;
+        box-shadow: 8px 8px 5px black;
     }
+
 }
 
 ```
