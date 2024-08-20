@@ -1,7 +1,9 @@
 # Aula 03 - MER x DER e Dicionário de Dados
 
 <div align = "center">
-<img src ="90223.gif" width="500"/>
+
+
+<img src ="2024-08-20-MER-x-DER.gif" width="500"/>
 </div>
 
 ## Tipos
