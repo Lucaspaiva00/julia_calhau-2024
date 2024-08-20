@@ -1,7 +1,8 @@
 # Aula 03 - MER x DER e Dicionário de Dados
 
 <div align = "center">
-  ![2024-08-20-MER-x-DER](https://github.com/user-attachments/assets/6a4d24c1-9c6a-4973-9fbc-d1862211e077)
+![2024-08-20-MER-x-DER](https://github.com/user-attachments/assets/d8b7b3dc-8e88-414e-9d83-8b35333247e8)
+
 
 <img src ="2024-08-20-MER-x-DER.gif" width="500"/>
 </div>
