@@ -1,6 +1,6 @@
 # Aula 04
 
-- Link para acessar o meet: <a href="https://meet.google.com/wsm-gbuy-mwf">Clique aqui</a>
+- Link para acessar o meet: <a href="https://meet.google.com/zwf-acee-zci">Clique aqui</a>
 
 ## CSS
 
