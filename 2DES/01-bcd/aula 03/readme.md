@@ -1,10 +1,7 @@
 # Aula 03 - MER x DER e Dicionário de Dados
 
 <div align = "center">
-
-
-<img src ="[2024-08-20-MER-x-DER.gif](https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiTUVSJTIweCUyMERFUiIsImlhdCI6MTcyNDE4Mjg3Mn0._FOQLyPTYf7m3nPwwacjJC-vORLdJtGUMGq2uh-LfRI)" width="500"/>
-<img src ="" width="500"/>
+<img src ="mer.gif" width="500"/>
 </div>
 
 ## Tipos
