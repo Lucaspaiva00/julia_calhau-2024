@@ -1,3 +1,8 @@
+<div align ="center">
+<img src = "https://github.com/user-attachments/assets/2d1c29e1-410f-4f80-8e27-6e8dbe441363">
+</div>
+
+
 # Aula 04
 
 - Link para acessar o meet: <a href="https://meet.google.com/iuy-vski-fba">Clique aqui</a>
