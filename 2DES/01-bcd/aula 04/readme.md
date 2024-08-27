@@ -1,4 +1,4 @@
-Link do Meet: https://meet.google.com/yxa-stko-sdu
+Link do Meet: https://meet.google.com/iua-orao-yqj
 
 <div align = "center">
 <img src ="bd.gif" width="500"/>
