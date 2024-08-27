@@ -3,7 +3,7 @@
 <img src ="bd.gif" width="500"/>
 </div>
 
-# Aula 04 - Criando Banco apartir do MER x DER
+# Aula 04 - Criando Banco e Selects
 
 ## Criando Scripts
 
