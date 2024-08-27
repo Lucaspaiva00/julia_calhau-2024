@@ -5,7 +5,7 @@
 
 # Aula 04
 
-- Link para acessar o meet: <a href="https://meet.google.com/iuy-vski-fba">Clique aqui</a>
+- Link para acessar o meet: <a href="https://meet.google.com/kvg-mtis-hbu">Clique aqui</a>
 
 ## CSS
 
