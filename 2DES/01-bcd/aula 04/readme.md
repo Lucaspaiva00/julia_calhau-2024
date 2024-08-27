@@ -1,3 +1,4 @@
+Link do Meet: https://meet.google.com/yxa-stko-sdu
 
 <div align = "center">
 <img src ="bd.gif" width="500"/>
