@@ -1,22 +1,17 @@
-# Trabalhando com Node.JS
+# Academia
 
-- Desafio
-  - Desenvolva um projeto no segmento de academias, onde podemos cadastrar alunos.
+Link pra aula - Turma B - <a href="https://meet.google.com/dmo-dhao-doa">Clique aqui</a>
 
-## SQL - Copie e cole o código abaixo no XAMPP
-```C
-create database academia;
+## Relembrando os Verbos HTTP (GET e POST) - Projeto Biblioteca "Aula 04"
+Utilizando o "body" para a comunicação entre a API e a página HTML.
 
-use academia;
+## Verbos HTTP (GET e POST)
+Trabalhando com o projeto **BIBLIOTECA** utilizaremos os verbos corretos **GET** para listar todos e **POST** para criar, para isso precisaremos da biblioteca body-parser.
 
-create table alunos(
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    nome VARCHAR(100) NOT NULL,
-    cpf VARCHAR(20) NOT NULL,
-    rg VARCHAR(20) NOT NULL,
-    telefone VARCHAR(20) NOT NULL,
-    endereco VARCHAR(200) NOT NULL,
-    cidade VARCHAR(100) NOT NULL,
-    formadepagamento VARCHAR(100) NOT NULL
-);
-```
+## Conhecimentos NodeJS
+- Biblioteca body-parser
+- Redirecionamento de Páginas
+
+Cole essa URL no google: http://localhost:3000/
+para exibir a pagina abaixo: 
+
