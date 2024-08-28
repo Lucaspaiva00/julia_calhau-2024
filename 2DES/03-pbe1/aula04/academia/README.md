@@ -6,7 +6,7 @@ Link pra aula - Turma B - <a href="https://meet.google.com/dmo-dhao-doa">Clique 
 Utilizando o "body" para a comunicação entre a API e a página HTML.
 
 ## Verbos HTTP (GET e POST)
-Trabalhando com o projeto **BIBLIOTECA** utilizaremos os verbos corretos **GET** para listar todos e **POST** para criar, para isso precisaremos da biblioteca body-parser.
+Trabalhando com o projeto **Academia** utilizaremos os verbos corretos **GET** para listar todos e **POST** para criar, para isso precisaremos da biblioteca body-parser.
 
 ## Conhecimentos NodeJS
 - Biblioteca body-parser
