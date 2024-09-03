@@ -9,7 +9,7 @@
 
 Vamos criar um banco de dados sobre uma academia, neste caso vamos usar o Diagrama a seguir para que possamos realizar o script do banco de dados
 
-(imagem da lousa)
+![alt text](lousa.jpg)
 
 ### Agora vamos popular o banco de dados com as informações
 
