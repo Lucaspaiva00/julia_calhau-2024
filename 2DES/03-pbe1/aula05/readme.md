@@ -159,6 +159,8 @@ Criar uma pasta nomeada **autoescola**
 Faça um banco de dados para uma Auto Escola utilizando o seguinte Script
 
 ```sql
+CREATE DATABASE autoescola;
+USE autoescola;
 -- Criação das tabelas
 
 -- Tabela: Alunos
