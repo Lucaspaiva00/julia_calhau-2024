@@ -1,7 +1,6 @@
 # Aula 06 
 
-- Link para o Meet: https://meet.google.com/whv-ecoo-yft?pli=1
-
+- Link para o Meet: https://meet.google.com/nep-iheg-ush
 ### Conhecendo o Insomnia.
 - O que é o Insomnia?
     -  O insomnia é uma ferramenta de teste de API que permite aos desenvolvedores enviar requisições HTTP e gerenciar respostas.
