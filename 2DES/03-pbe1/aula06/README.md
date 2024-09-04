@@ -1,3 +1,6 @@
+
+Link Meet: https://meet.google.com/avs-madw-mps
+
 # Aula 06 
 ### Conhecendo o Insomnia.
 - O que é o Insomnia?
