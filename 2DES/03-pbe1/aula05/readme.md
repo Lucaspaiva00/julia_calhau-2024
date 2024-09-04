@@ -163,7 +163,7 @@ Faça um banco de dados para uma Auto Escola utilizando o seguinte Script
 
 -- Tabela: Alunos
 CREATE TABLE Alunos (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(255) NOT NULL,
     email VARCHAR(255) UNIQUE NOT NULL,
     telefone VARCHAR(15),
@@ -173,7 +173,7 @@ CREATE TABLE Alunos (
 
 -- Tabela: Instrutores
 CREATE TABLE Instrutores (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
     nome VARCHAR(255) NOT NULL,
     email VARCHAR(255) UNIQUE NOT NULL,
     telefone VARCHAR(15),
@@ -183,7 +183,7 @@ CREATE TABLE Instrutores (
 
 -- Tabela: Aulas
 CREATE TABLE Aulas (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
     data_aula DATETIME NOT NULL,
     aluno_id INTEGER NOT NULL,
     instrutor_id INTEGER NOT NULL,
