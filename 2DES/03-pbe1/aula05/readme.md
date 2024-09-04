@@ -1,12 +1,3 @@
-
-Link Meet: https://meet.google.com/hhm-jmoa-xop
-
-<div align = "center">
-<img src = "https://github.com/user-attachments/assets/3e5bd2be-7e97-4287-9975-7975eaed8fb0">
-
-</div>
-
-
 # Aula 05 - Realizando Testes No Insomnia
 
 Vamos realizar testes fazendo testes no Insomnia
