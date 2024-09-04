@@ -154,7 +154,7 @@ INSERT INTO Aulas (data_aula, aluno_id, instrutor_id, tipo, observacoes) VALUES
 
     - Front
         - Páginas HTML, CSS 
-<<<<<<< HEAD
+
 
 ### Código para rodar o servidor
 ```
@@ -175,5 +175,3 @@ app.listen(3000, ()=>{
     console.log('Servidor rodando na porta 3000')
 })
 ```
-=======
->>>>>>> 79c241b74473c3c52405b3791d7efe25cba006a5
