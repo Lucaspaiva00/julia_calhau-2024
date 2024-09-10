@@ -16,7 +16,7 @@ Vamos criar um banco de dados sobre uma academia, neste caso vamos usar o Diagra
 ```sql
 DROP DATABASE academia;
 CREATE DATABASE academia;
-USER academia;
+USE academia;
 
 CREATE TABLE Cliente(
 id_clientes INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
