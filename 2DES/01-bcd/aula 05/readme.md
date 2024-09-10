@@ -14,6 +14,31 @@ Vamos criar um banco de dados sobre uma academia, neste caso vamos usar o Diagra
 ### Agora vamos popular o banco de dados com as informações
 
 ```sql
+DROP DATABASE academia;
+CREATE DATABASE academia;
+USER academia;
+
+CREATE TABLE Cliente(
+id_clientes INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+nome VARCHAR(50) NOT NULL,
+idade INT NOT NULL
+);
+CREATE TABLE Treinos (
+id_treinos int PRIMARY KEY AUTO_INCREMENT NOT NULL,
+nome VARCHAR(50) NOT NULL,
+tipo VARCHAR (50) NOT NULL,
+duracao INT NOT NULL,
+data_adicionado DATE NOT NULL 
+
+);
+CREATE TABLE Inscricoes(
+id_clientes INT NOT NULL,
+id_treinos INT NOT NULL,
+PRIMARY KEY(id_clientes,id_treinos),
+FOREIGN KEY id_clientes REFERENCES Clientes(id_clientes),
+FOREIGN KEY id_treinos REFERENCES Treinos(id_treinos),
+
+
 INSERT INTO Clientes (nome, idade) VALUES
 ('Ana Silva', 28),
 ('Pedro Oliveira', 35),
@@ -30,7 +55,7 @@ INSERT INTO Treinos (nome, tipo, duracao, data_adicionado ) VALUES
 ('Treino Yoga', 'Flexibilidade', 40, '2024-05-01');
 
 -- Dados para Inscricoes
-INSERT INTO Inscricoes (id_cliente, id_treino) VALUES
+INSERT INTO Inscricoes (id_clientes, id_treinos) VALUES
 (1, 1),
 (1, 3),
 (2, 2),
