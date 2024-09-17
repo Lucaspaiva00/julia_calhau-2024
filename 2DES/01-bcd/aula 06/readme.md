@@ -65,6 +65,9 @@ https://pt.khanacademy.org/computing/computer-science/cryptography
 
 ## Filme O Jogo da Imitação
 
+![9dzj](https://github.com/user-attachments/assets/027230ec-aa39-45cc-ab0b-cd6d189c3df3)
+
+
 https://drive.google.com/file/d/1guidMUq6ZWzbC3pEzMN_vengBWb-1W7j/view?usp=sharing
 
 
