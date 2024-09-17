@@ -14,9 +14,8 @@ Prisma
 
 ## Instruções
 - O **Projeto-Academia** será desenvolvido em duas etapas, então em sua pasta **DOCUMENTOS** crie o arquivo *Projeto-Academia* e dentro do mesmo crie as seguintes pastas abaixo:
-
-- **1ª Pasta**: **Front End**, onde será desenvolvido na aula de **LIMA** na Terça-feira das 07:30 até as 11:30. Nessa pasta como feito nas aulas anteriores será utilizado as linguagens HTML e CSS para a personalização da mesma.  
-- **2ª Pasta**: **Back-End**, onde será desenvolvido na aula de **PBE1** na Quarta-Feira das 07:30 até as 15:30. Nessa pasta você irá utilizar as seguintes linguagens:
+ 
+- **1ª Pasta**: **Back-End**, onde será desenvolvido na aula de **PBE1** na Quarta-Feira das 07:30 até as 15:30. Nessa pasta você irá utilizar as seguintes linguagens:
   
 ```
 Node.js
@@ -69,14 +68,3 @@ app.listen(3000, ()=>{
     console.log('Servidor da academia rodando na porta 3000')
 })
 ``` 
-
-### Campos do formulário, para o front-end e o banco de dados:
-- Nome completo;
-- Cpf;
-- Rg;
-- Telefone;
-- Plano da academia (1º 80,00; 2º 120,00; 3º1200,00)
-- Endereco
-- Bairro
-- Cidade
-  
