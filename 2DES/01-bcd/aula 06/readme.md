@@ -41,19 +41,19 @@ Chave de Criptografia: O número de posições que cada letra deve ser deslocada
 ## Exemplo
 Suponha que queremos criptografar a mensagem "HELLO" com uma chave de 3:
 
-H se torna K
-E se torna H
-L se torna O
-O se torna R
+ - H se torna K
+ - E se torna H
+ - L se torna O
+ - O se torna R
 Portanto, "HELLO" criptografado com uma chave de 3 seria "KHOOR".
 
 Decodificação
 Para decifrar a mensagem, você aplicaria o deslocamento inverso. Se a chave for 3, você deslocaria cada letra para trás no alfabeto por 3 posições:
 
-K se torna H
-H se torna E
-O se torna L
-R se torna O
+ - K se torna H
+ - H se torna E
+ - O se torna L
+ - R se torna O
 Então, "KHOOR" se tornaria "HELLO".
 
 ## Segurança
