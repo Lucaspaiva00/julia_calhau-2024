@@ -1,5 +1,7 @@
 # Aula07 
 
+Link para a aula: https://meet.google.com/aqt-mbns-zzr
+
 |Contextualização do Desafio|
 |-|
 |Como integrante do time de programadores da empresa XPTO, você possui como um de seus clientes a empresa XPTUK e está trabalhando em um projeto que visa o gerenciamento de Alunos na academia. Com base nisso, o seu gerente requeriu que você desse continuidade no desenvolvimento utilizando as seguintes linguagens e ferramentas: |
