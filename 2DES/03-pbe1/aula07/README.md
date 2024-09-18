@@ -1,6 +1,6 @@
 # Aula07 
 
-Link para a aula: https://meet.google.com/bzx-aubq-pwv
+Link para a aula: https://meet.google.com/hdx-qpgy-ogn
 
 |Contextualização do Desafio|
 |-|
