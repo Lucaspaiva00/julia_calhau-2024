@@ -5,7 +5,7 @@
 
 # Aula 04
 
-- Link para acessar o meet: <a href="https://meet.google.com/evn-kqjk-sfg">Clique aqui</a>
+- Link para acessar o meet: <a href="https://meet.google.com/xse-njff-xir">Clique aqui</a>
 
 ## CSS
 
