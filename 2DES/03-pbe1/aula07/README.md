@@ -1,6 +1,6 @@
 # Aula07 
 
-Link para a aula: https://meet.google.com/aqt-mbns-zzr
+Link para a aula: https://meet.google.com/wmz-puhw-knp
 
 |Contextualização do Desafio|
 |-|
