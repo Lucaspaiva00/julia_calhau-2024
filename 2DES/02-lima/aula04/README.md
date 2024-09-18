@@ -5,7 +5,7 @@
 
 # Aula 04
 
-- Link para acessar o meet: <a href="https://meet.google.com/ynb-gibb-ctx">Clique aqui</a>
+- Link para acessar o meet: <a href="https://meet.google.com/vej-pynz-cfb">Clique aqui</a>
 
 ## CSS
 
