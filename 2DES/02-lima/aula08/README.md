@@ -1,5 +1,4 @@
 # Aula08
-- Atividade prática valendo 30 pontos.
 
 |Contextualização do Desafio|
 |-|
