@@ -1,8 +1,10 @@
 <div align = "center">
-  <img src = "https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im5ld2Jvcm4iLCJ0ZXh0IjoiQ3JpcHRvZ3JhZmlhIiwiaWF0IjoxNzI2NjAxNTI3fQ.qOrkkcR7qo7oEVa8dKqKCada3X0WJQy7oUE8RdsdTAo">
+  <img src = "https://github.com/user-attachments/assets/0d5dace6-8f62-46f9-81be-e8be01e68b7d">
+  
 </div>
 
-# Aula 06 - Update e Delete
+
+# Aula 07 - Update e Delete
 
 ## Conceito de UPDATE e DELETE em Banco de Dados
 
