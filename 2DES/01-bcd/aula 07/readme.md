@@ -106,13 +106,7 @@ create table pedido(
     dataPedido timestamp not null,
     valor float(50,2) not null
 );
--- DDL - ALTER
-alter table Pedido add foreign key (idCliente) references Cliente(idCliente);
-alter table Pedido add foreign key (idEntrega) references Entrega(idEntrega);
 
-alter table Entrega add foreign key (placa) references Veiculo(placa);
-alter table Entrega add foreign key (motorista) references Funcionario(idFuncionario);
-alter table Entrega add foreign key (idRota) references Rota(idRota);
 
 describe Cliente;
 describe Funcionario;
