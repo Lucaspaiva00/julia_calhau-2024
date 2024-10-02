@@ -1,6 +1,6 @@
 # Aula07 
 
-Link para a aula: hhttps://meet.google.com/hnc-ttnr-wtk
+Link para a aula: https://meet.google.com/hnc-ttnr-wtk
 
 |Contextualização do Desafio|
 |-|
