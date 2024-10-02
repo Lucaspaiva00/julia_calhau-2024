@@ -1,7 +1,7 @@
-Link Meet: https://meet.google.com/mkw-esnh-eqa
+Link Meet: https://meet.google.com/ijk-zafo-ywk
 
 <div align = "center">
-<img src = "https://github.com/user-attachments/assets/3e5bd2be-7e97-4287-9975-7975eaed8fb0">
+<img src = "https://github.com/user-attachments/assets/27f19fd0-2348-4027-87ef-c780350b7eff">
 
 </div>
 
