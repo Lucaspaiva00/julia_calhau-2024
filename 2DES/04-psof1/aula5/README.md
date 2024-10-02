@@ -7,7 +7,7 @@
 ### Turma B
 ```
 João
-Receba
+Rebeca
 Kamili
 Maria Luiza
 ```
