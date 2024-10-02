@@ -1,6 +1,6 @@
 # Aula07 
 
-Link para a aula: https://meet.google.com/hnc-ttnr-wtk
+Link para a aula: https://meet.google.com/egm-psbc-egu
 
 |Contextualização do Desafio|
 |-|
