@@ -1,3 +1,3 @@
 # Kahoot comunitário
 
-Link Form: https://forms.gle/zDpHTzjH1kdyvfYdA
+Link meet: https://meet.google.com/jxv-tvbd-ntp
