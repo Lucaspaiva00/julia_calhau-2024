@@ -68,7 +68,7 @@ https://pt.khanacademy.org/computing/computer-science/cryptography
 ![9dzj](https://github.com/user-attachments/assets/027230ec-aa39-45cc-ab0b-cd6d189c3df3)
 
 
-![Filme](https://drive.google.com/file/d/1xPOAI1NTnUj1RdXOsAs2tQHw86D4SJhz/view?usp=sharing)
+https://drive.google.com/file/d/1xPOAI1NTnUj1RdXOsAs2tQHw86D4SJhz/view?usp=sharing
 
 
 
