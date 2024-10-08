@@ -38,7 +38,7 @@ CREATE TABLE Reservas (
     cliente_id INT NOT NULL,
     quarto_id INT NOT NULL,
     data_checkin DATE NOT NULL,
-    data_checkout DATE NOT NULL,
+    data_checkout DATE NOT NULL
     
 );
 
@@ -63,7 +63,7 @@ CREATE TABLE Pagamentos (
     reserva_id INT NOT NULL,
     valor DECIMAL(10, 2) NOT NULL,
     data_pagamento DATE NOT NULL,
-    metodo_pagamento VARCHAR(50) NOT NULL,
+    metodo_pagamento VARCHAR(50) NOT NULL
     
 );
 
