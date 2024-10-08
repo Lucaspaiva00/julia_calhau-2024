@@ -13,6 +13,7 @@ Vamos montar um banco de dados de um Hotel
 
 ```sql
 -- Criação do banco de dados
+DROP DATABASE hotel_db;
 CREATE DATABASE hotel_db;
 USE hotel_db;
 
