@@ -14,4 +14,6 @@ router.get('/', teste)
 router.get('/clientes', clientes.read)
 router.post('/clientes', clientes.create)
 
+
+
 module.exports = router;
