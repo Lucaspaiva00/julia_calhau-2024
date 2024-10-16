@@ -4,7 +4,9 @@
 
 |Contextualização do Desafio|
 |-|
-|Projeto: API Simples de Gerenciamento de Tarefas Descrição Desenvolver uma API RESTful básica que permita criar e listar tarefas. Os dados serão armazenados em memória (para simplicidade) ou em um arquivo JSON, o seu gerente requeriu que você desse continuidade no desenvolvimento utilizando as seguintes linguagens e ferramentas: |
+|Projeto: API Simples de Gerenciamento de Tarefas, descrição Desenvolver uma API RESTful básica que permita criar e listar tarefas. Os dados serão armazenados em memória (para simplicidade) ou em um arquivo JSON, os dados a serem cadastrados serão:
+Título, descrição, data do cadastro, nome da pessoa que cadastrou.
+O seu gerente requeriu que você desse continuidade no desenvolvimento utilizando as seguintes linguagens e ferramentas: |
 
 ```
 Node.js
