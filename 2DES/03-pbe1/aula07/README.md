@@ -9,7 +9,6 @@ Node.js
 Mysql (Xampp)
 HTML
 CSS
-Prisma
 ```
 
 ## Instruções
