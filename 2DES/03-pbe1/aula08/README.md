@@ -11,8 +11,6 @@ O seu gerente requeriu que você desse continuidade no desenvolvimento utilizand
 ```
 Node.js
 Mysql (Xampp)
-HTML
-CSS
 Prisma
 ```
 
