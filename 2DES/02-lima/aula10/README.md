@@ -1,7 +1,7 @@
 # Aula10 - VPS01
 ## [Verificação Prática Somativa 01](https://forms.gle/eVAe8pGANceRfsGF6)
 
-/*
+
 |Critério|Fundamentos técnicos, científicos ou capacidades técnicas|Critérios|
 |-|-|-|
 |![Critico](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/critico.png)|1 Identificar a sequência lógica de passos em um algoritmo|Desenvolveu ao menos um dos algoritmos ou fluxogramas solicitados.|
@@ -16,4 +16,3 @@
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|2 Demonstrar pensamento analítico|Demonstrou a relação entre os problemas e a solução, implementando padrões reutilizáveis|
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|3 Demonstrar inteligência emocional|Manteve o foco na solução dos problemas propostos|
 |![Desejável](https://raw.githubusercontent.com/wellifabio/senai2023/main/outros/assets/desejavel.png)|4 Demonstrar autonomia|Geriu os recursos tecnológicos, internet, envio das soluções, conforme solicitado, entendeu e seguiu as instruções|
-*/
