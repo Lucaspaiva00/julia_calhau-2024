@@ -1,90 +1,37 @@
-Link meet: https://meet.google.com/ojg-iegh-sun
+# Aula 01 - Banco de Dados
+
+<!-- ![alt text](9872469.gif) -->
 <div align = "center">
-<img src ="https://github.com/user-attachments/assets/4b69c7d1-bdd6-47cf-8d84-02dd8b92abeb"/>
+<img src="9872469.gif" width="300">
 </div>
 
-# Aula 05 - Criando Banco através do MER
+## O que é um banco de dados?
 
-## Criar Script
+O banco de dados é a organização e armazenagem de informações sobre um domínio específico. De forma mais simples, é o agrupamento de dados que tratam do mesmo assunto, e que precisam ser armazenados para segurança ou conferência futura. 
 
-Vamos criar um banco de dados sobre uma academia, neste caso vamos usar o Diagrama a seguir para que possamos realizar o script do banco de dados
+É comum que empresas tenham diversas informações que precisam ser organizadas e disponibilizadas dentro do negócio para que sejam consultadas posteriormente pela equipe e pela gerência.
 
-![alt text](lousa.jpg)
+Por isso, é interessante ter um sistema de gerenciamento de banco de dados, SGBD, para conseguir manipular as informações e tornar a rotina da empresa muito mais simples.
 
-### Agora vamos popular o banco de dados com as informações
+Hoje, existem diversos tipos de SGBDs, e cada um é adequado para uma necessidade dos clientes. São os mais comuns: Oracle, DB2, MySQL, SQL Server, PostgreSQL e outros.
 
-```sql
-DROP DATABASE academia;
-CREATE DATABASE academia;
-USE academia;
+## Tipo de Dados
 
-CREATE TABLE Cliente(
-id_clientes INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
-nome VARCHAR(50) NOT NULL,
-idade INT NOT NULL
-);
-CREATE TABLE Treinos (
-id_treinos int PRIMARY KEY AUTO_INCREMENT NOT NULL,
-nome VARCHAR(50) NOT NULL,
-tipo VARCHAR (50) NOT NULL,
-duracao INT NOT NULL,
-data_adicionado DATE NOT NULL 
+- Estruturados
+- Semi Estruturados
+- Não Estruturados
 
-);
-CREATE TABLE Inscricoes(
-id_clientes INT NOT NULL,
-id_treinos INT NOT NULL,
-PRIMARY KEY(id_clientes,id_treinos),
-FOREIGN KEY id_clientes REFERENCES Clientes(id_clientes),
-FOREIGN KEY id_treinos REFERENCES Treinos(id_treinos),
+ ## Estrutura de um Banco de Dados
+
+- Tabela	
+- Registro
+- Campo
+
+![alt text](image.png)
 
 
-INSERT INTO Clientes (nome, idade) VALUES
-('Ana Silva', 28),
-('Pedro Oliveira', 35),
-('Mariana Souza', 42),
-('Lucas Lima', 23),
-('Carla Santos', 31);
+## Sistema Gerenciador de Banco de Dados (SGBD)
 
--- Dados para Treinos
-INSERT INTO Treinos (nome, tipo, duracao, data_adicionado ) VALUES
-('Treino Cardio 1', 'Cardio', 45, '2024-01-15'),
-('Treino Cardio 2', 'Cardio', 60, '2024-02-20'),
-('Treino Força 1', 'Força', 50, '2024-03-10'),
-('Treino Força 2', 'Força', 70, '2024-04-05'),
-('Treino Yoga', 'Flexibilidade', 40, '2024-05-01');
+É um software que fornece uma interface para criar, gerenciar e manipular bancos de dados. O SGBD é responsável por facilitar as operações de armazenamento, recuperação, atualização e administração dos dados em um banco de dados, garantindo a segurança, integridade e eficiência no gerenciamento dos dados.
 
--- Dados para Inscricoes
-INSERT INTO Inscricoes (id_clientes, id_treinos) VALUES
-(1, 1),
-(1, 3),
-(2, 2),
-(2, 4),
-(3, 5),
-(4, 1),
-(4, 2),
-(4, 3),
-(5, 4);
-```
-
-## Perguntas utilizando select
-
- 1. Listar todos os clientes da academia
-
-2. Encontrar todos os clientes com mais de 30 anos
-
-3. Listar todos os treinos disponíveis
-
-4. Encontrar todos os clientes que estão inscritos em qualquer treino com ID 5
-
-5. Listar todos os treinos aos quais um cliente específico (ID 2) está inscrito
-
-6. Encontrar o número total de treinos em que um cliente específico (ID 3) está inscrito
-
-7. Listar todos os clientes que não estão inscritos em nenhum treino
-
-8. Encontrar os treinos que têm duração superior a 60 minutos
-
-9. Listar os clientes que frequentam treinos do tipo "Cardio"
-
-10. Encontrar o cliente com o maior número de inscrições
+ 

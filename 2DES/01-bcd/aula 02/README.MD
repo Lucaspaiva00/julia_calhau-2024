@@ -1,84 +1,37 @@
-# Aula 02 - Banco de Dodos
+# Aula 01 - Banco de Dados
 
-<!-- ![alt text](90222.gif) -->
-<div align="center">
-<img src="90222.gif" width="500" />
+<!-- ![alt text](9872469.gif) -->
+<div align = "center">
+<img src="9872469.gif" width="300">
 </div>
 
-## Tipo de dados (SQL)
+## O que é um banco de dados?
 
-SQL suporta uma variedade de tipos de dados para armazenar diferentes tipos de informações. Esses tipos de dados são usados para definir a natureza dos valores que podem ser armazenados em uma coluna de uma tabela de banco de dados. Aqui estão os principais tipos de dados e suas diferenças:
+O banco de dados é a organização e armazenagem de informações sobre um domínio específico. De forma mais simples, é o agrupamento de dados que tratam do mesmo assunto, e que precisam ser armazenados para segurança ou conferência futura. 
 
-### Tipos numéricos
+É comum que empresas tenham diversas informações que precisam ser organizadas e disponibilizadas dentro do negócio para que sejam consultadas posteriormente pela equipe e pela gerência.
 
-- INT ou INTEGER
-- SMALLINT
-- BIGINT
-- FLOAT ou REAL
-- DOUBLE
-- DECIMAL ou NUMERIC
+Por isso, é interessante ter um sistema de gerenciamento de banco de dados, SGBD, para conseguir manipular as informações e tornar a rotina da empresa muito mais simples.
 
-### Tipos de texto
+Hoje, existem diversos tipos de SGBDs, e cada um é adequado para uma necessidade dos clientes. São os mais comuns: Oracle, DB2, MySQL, SQL Server, PostgreSQL e outros.
 
-- CHAR(n)
-- VARCHAR(n)
-- TEXT
+## Tipo de Dados
 
-### Tipos de data e hora
+- Estruturados
+- Semi Estruturados
+- Não Estruturados
 
-- DATE
-- TIME
-- DATETIME ou TIMESTAMP
-- YEAR
+ ## Estrutura de um Banco de Dados
 
-### Tipo lógico
+- Tabela	
+- Registro
+- Campo
 
-- BOOLEAN
-
-### Tipos binários
-- BINARY(n) 
-- VARBINARY(n) 
-- BLOB
+![alt text](image.png)
 
 
+## Sistema Gerenciador de Banco de Dados (SGBD)
 
+É um software que fornece uma interface para criar, gerenciar e manipular bancos de dados. O SGBD é responsável por facilitar as operações de armazenamento, recuperação, atualização e administração dos dados em um banco de dados, garantindo a segurança, integridade e eficiência no gerenciamento dos dados.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Formulário: https://docs.google.com/forms/d/e/1FAIpQLSdTv6WXUist4sFzYCBwlPd2GyYq_s6sL-G_jSCVHK1LTO30YQ/viewform?usp=sf_link
-
-
-meet: http://meet.google.com/hwz-oabd-hdt
+ 
