@@ -1,5 +1,5 @@
 # Aula 09
-- link para a chamada: https://meet.google.com/hdi-ncip-xhv
+- link para a chamada: https://meet.google.com/mix-qdju-wee
 - Conteúdo: UI e UX.
 
 ## O que significa UI: 
