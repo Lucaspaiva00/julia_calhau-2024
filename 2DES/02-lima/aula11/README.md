@@ -11,3 +11,4 @@
 - Crie uma pasta em documentos, com o nome de aula 11.1, e crie dois arquivos, um .html e o outro .css.
 
 - Link para o forms: <a href="https://forms.gle/H4G1NhpjLDSY2vWJ8">Clique aqui!</a>
+- Link para sala do meet: <a href="https://meet.google.com/dbu-huwu-nev?pli=1">Clique aqui!</a>
