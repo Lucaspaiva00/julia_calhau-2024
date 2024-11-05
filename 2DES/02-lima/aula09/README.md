@@ -38,3 +38,5 @@ A aparência e o design da interface podem afetar a percepção do usuário sobr
 - Sites responsivos são aqueles que adaptam o tamanho das suas páginas (alteração do layout) ao tamanho das telas que estão sendo exibidos, como as telas de celulares e tablets.
 
 ![alt text](image-3.png)
+
+Link Photoshop Portable: https://drive.google.com/file/d/1bW3QXaneQTD9HpH8woMSG6cHPRMbqjDJ/view?usp=sharing
