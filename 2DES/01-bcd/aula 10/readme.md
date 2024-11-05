@@ -66,13 +66,13 @@ INSERT INTO livros (id_livro, titulo, id_autor, preco) VALUES
 (104, 'Fantastic Beasts', 1, 25.90);
 
 ```
- - 1. Exibir todos os livros com seus respectivos autores.
- - 2. Exibir todos os autores, com ou sem livros.
- - 3. Listar todos os livros e seus preços.
- - 4. Listar os livros mais caros que R$30,00.
- - 5. Exibir os autores que têm livros cadastrados na tabela.
- - 6. Exibir todos os autores e o total de livros que possuem.
- - 7. Exibir todos os livros cujo título contém a palavra "The".
- - 8. Calcular a média dos preços dos livros.
+ 1. Exibir todos os livros com seus respectivos autores.
+ 2. Exibir todos os autores, com ou sem livros.
+ 3. Listar todos os livros e seus preços.
+ 4. Listar os livros mais caros que R$30,00.
+ 5. Exibir os autores que têm livros cadastrados na tabela.
+ 6. Exibir todos os autores e o total de livros que possuem.
+ 7. Exibir todos os livros cujo título contém a palavra "The".
+ 8. Calcular a média dos preços dos livros.
 
 
