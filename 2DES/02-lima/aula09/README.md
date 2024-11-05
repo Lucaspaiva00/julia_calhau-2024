@@ -40,3 +40,6 @@ A aparência e o design da interface podem afetar a percepção do usuário sobr
 ![alt text](image-3.png)
 
 Link Photoshop Portable: https://drive.google.com/file/d/1bW3QXaneQTD9HpH8woMSG6cHPRMbqjDJ/view?usp=sharing
+
+
+
