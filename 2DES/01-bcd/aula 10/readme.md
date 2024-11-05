@@ -24,6 +24,7 @@ INSERT INTO clientes (id_cliente, nome, cidade) VALUES
 (1, 'Maria', 'São Paulo'),
 (2, 'Carlos', 'Rio de Janeiro'),
 (3, 'Ana', 'Curitiba');
+(4, 'Bernardo','Belo Horizonte')
 
 INSERT INTO pedidos (id_pedido, id_cliente, produto, valor) VALUES
 (101, 1, 'Notebook', 3000.00),
