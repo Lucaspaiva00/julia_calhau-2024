@@ -40,7 +40,7 @@ CREATE TABLE carros (
     marca_veiculo VARCHAR(252) NOT NULL,
     modelo_veiculo VARCHAR(252) NOT NULL,
     ano_veiculo date NOT NULL,
-    fabricacao_veiuclo date NOT NULL,
+    fabricacao_veiculo date NOT NULL,
     cliente_id int(10) NOT NULL,
     FOREIGN KEY (cliente_id) REFERENCES clientes(cliente_id)
 );
