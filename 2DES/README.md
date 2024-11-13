@@ -1,4 +1,10 @@
-# 1DES - Segundo Semestre
+# Inscrições Torneio Counter Strike 1.6
+<a href:"https://forms.gle/PYGbHJPq1ptknead8"><img src="https://github.com/user-attachments/assets/60fd6a2d-a7a3-49a5-b0a7-69d0dd3620fe">
+
+
+
+
+# 2DES - Segundo Semestre
 - [BCD (Banco de Dados](./01-bcd/)
 - [LIMA (Linguagem de Marcação)](./02-lima/)
 - [PBE1 (Programação Back-end 1)](./03-pbe1/)
