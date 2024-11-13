@@ -2,6 +2,37 @@
 - Link para a sala do meet (Lucas Paiva): https://meet.google.com/mww-scww-oin
 - Link para a sala do meet (Robson Souza): https://meet.google.com/qgr-myxo-jnu
 
+- Abra o terminal e digite os seguintes comandos na pasta :
+```
+    npm init
+```
+- Pressione ENTER até o final.
+- Instale as dependências iniciais:
+```
+    npm i express
+    npm i cors
+    npm i mysql
+```
+### Agora criaremos juntos o arquivo server.js na pasta Back-End
+```
+// Dependências para rodar o servidor
+const express = require ('express')
+const cors = require('cors')
+const routes = require("./src/routes")
+
+//Configurações de saída - App -> Front ou Mobile
+const app = express();
+app.use(express.json());
+app.use(cors());
+app.use(routes);
+
+
+// Rota para testar a API no console
+app.listen(3000, ()=>{
+    console.log('Servidor da academia rodando na porta 3000')
+})
+``` 
+
 ## Banco de Dados RH de uma empresa
 
 ```sql
