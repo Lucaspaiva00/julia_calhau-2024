@@ -1,6 +1,6 @@
 # Aula 11
 - Link para a sala do meet (Lucas Paiva): https://meet.google.com/gnq-jczm-qva
-- Link para a sala do meet (Robson Souza): https://meet.google.com/qgr-myxo-jnu
+- Link para a sala do meet (Robson Souza): https://meet.google.com/ebe-aucz-okw
 
 ## Banco de Dados RH de uma empresa
 
