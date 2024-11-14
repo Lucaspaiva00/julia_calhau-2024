@@ -174,3 +174,7 @@ INSERT INTO pagamentos (id_pedido, data_pagamento, valor_pago, metodo_pagamento)
 29. Exibir os pedidos que contêm mais de um produto e o valor total de cada um.
 
 30. Listar os produtos e os pagamentos realizados para os pedidos em que os clientes pagaram com "Cartão de Crédito".
+
+# Formulário
+
+https://forms.gle/dLJ1FS8YDE7Ro2nw7
