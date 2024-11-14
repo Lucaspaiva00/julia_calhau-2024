@@ -20,7 +20,8 @@ clique em API DOC
 
 
  - Agora vamos clicar na opção para buscarmos por nome da cidade
-   ![image](https://github.com/user-attachments/assets/0579a7a4-f231-4a8d-b057-0923cd5a7baa)
+![api2](https://github.com/user-attachments/assets/147156b2-bf72-4337-b917-ff2482cfda54)
+
 
  - Vamos utilizar no projeto o seguinte link
 
