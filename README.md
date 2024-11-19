@@ -8,7 +8,7 @@ Os códigos fonte, exemplos e materiais didáticos serão adicionados a este rep
 
 ## Banco de talentos
 - Se você é:
-    - aluno do SENAI em faze final de formação
+    - aluno do SENAI em fase final de formação
     - aluno de graduação ou já se formou em qualquer instituição de ensino.
     - possui conhecimentos ou habilidades e deseja trabalhar no SENAI.
 - [Banco de Talentos](https://sesisenaisp.jobs.recrut.ai/)
