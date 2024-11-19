@@ -101,7 +101,7 @@ INSERT INTO matriculas (aluno_id, curso_id, data_matricula) VALUES
 ```
 
 
-#Banco de dados Atividade
+# Banco de dados Atividade
 
 ```sql
 -- Criar o banco de dados
