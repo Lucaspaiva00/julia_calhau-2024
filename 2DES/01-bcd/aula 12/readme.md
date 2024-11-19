@@ -98,7 +98,7 @@ INSERT INTO matriculas (aluno_id, curso_id, data_matricula) VALUES
 (1, 1, '2024-01-10'),
 (4, 5, '2024-02-15'),
 (5, 1, '2024-03-20');
-"""
+```
 
 
 #Banco de dados Atividade
