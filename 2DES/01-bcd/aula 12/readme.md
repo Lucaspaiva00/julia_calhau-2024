@@ -1,5 +1,7 @@
 # Aula 12 - Subconsultas
 
+## Meet: https://meet.google.com/zix-civr-qpg
+
 # Subconsultas
 
 Subconsultas (ou **subqueries**) são consultas SQL aninhadas dentro de outra consulta maior. Elas são usadas para calcular ou filtrar resultados intermediários que a consulta principal utiliza. Basicamente, uma subconsulta retorna dados que servem como entrada para outra consulta.
