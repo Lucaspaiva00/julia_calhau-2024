@@ -32,6 +32,79 @@ Subconsultas (ou **subqueries**) são consultas SQL aninhadas dentro de outra co
 
 ```sql
 -- Criar o banco de dados
+CREATE DATABASE IF NOT EXISTS SubconsultasBD;
+USE SubconsultasBD;
+
+-- Tabela de Cursos
+CREATE TABLE cursos (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    area VARCHAR(50) NOT NULL
+);
+
+-- Tabela de Alunos
+CREATE TABLE alunos (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    curso_id INT,
+    FOREIGN KEY (curso_id) REFERENCES cursos(id)
+);
+
+-- Tabela de Produtos
+CREATE TABLE produtos (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    preco DECIMAL(10, 2) NOT NULL,
+    categoria VARCHAR(50) NOT NULL
+);
+
+-- Tabela de Matrículas (Relaciona alunos e cursos)
+CREATE TABLE matriculas (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    aluno_id INT,
+    curso_id INT,
+    data_matricula DATE NOT NULL,
+    FOREIGN KEY (aluno_id) REFERENCES alunos(id),
+    FOREIGN KEY (curso_id) REFERENCES cursos(id)
+);
+
+-- Inserir dados na tabela de Cursos
+INSERT INTO cursos (nome, area) VALUES 
+('Engenharia de Software', 'Tecnologia'),
+('Medicina', 'Saúde'),
+('Administração', 'Negócios'),
+('Design Gráfico', 'Artes'),
+('Redes de Computadores', 'Tecnologia');
+
+-- Inserir dados na tabela de Alunos
+INSERT INTO alunos (nome, curso_id) VALUES 
+('Alice', 1),
+('Bruno', 2),
+('Carla', 3),
+('Daniel', 5),
+('Eduarda', 1),
+('Fabiana', NULL); -- Aluno sem curso
+
+-- Inserir dados na tabela de Produtos
+INSERT INTO produtos (nome, preco, categoria) VALUES 
+('Notebook', 3000.00, 'Eletrônicos'),
+('Cadeira de Escritório', 450.00, 'Móveis'),
+('Mesa de Escritório', 700.00, 'Móveis'),
+('Smartphone', 2500.00, 'Eletrônicos'),
+('Luminária', 150.00, 'Móveis');
+
+-- Inserir dados na tabela de Matrículas
+INSERT INTO matriculas (aluno_id, curso_id, data_matricula) VALUES 
+(1, 1, '2024-01-10'),
+(4, 5, '2024-02-15'),
+(5, 1, '2024-03-20');
+"""
+
+
+#Banco de dados Atividade
+
+```sql
+-- Criar o banco de dados
 CREATE DATABASE Empresa;
 
 -- Usar o banco de dados
