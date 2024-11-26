@@ -4,7 +4,7 @@
 </div> 
 
 
-## Link do Meet: https://meet.google.com/oma-doma-mir
+## Link do Meet: https://meet.google.com/bfk-xsdr-rmi
 
 # Programação Front-End
 Vamos fazer agora um site para consulta de previsão do tempo pelo site OpenWeather
