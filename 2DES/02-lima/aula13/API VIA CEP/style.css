@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(235, 233, 233);
+}
+
+header{
+    background: black;
+    padding: 1vw;
+
+    & .container h1{
+        color: white;
+        font-size: 2vw;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+
+}
+
+main{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    & .containerdois{
+        padding: 5vw;
+        border: 1px solid rgb(204, 197, 197);
+        width: 11vw;
+        margin-top: 5vw;
+        border-radius: 0.5vw;
+        box-shadow: 1px 1px 1px 1px black;
+
+        & h1{
+            font-size: 1.5vw;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        & input{
+            width: 10vw;
+            padding: 0.5vw;
+            border-radius: 0.5vw;
+            border: none;
+            margin-top: 1vw;
+        }
+
+        & button{
+            width: 11vw;
+            padding: 0.5vw;
+            margin-top: 1vw;
+            background: greenyellow;
+            border: none;
+            border-radius: 0.5vw;
+            font-size: 1.0vw;
+            font-family: Arial, Helvetica, sans-serif;
+            cursor: pointer;
+        }
+
+        & button:hover{
+            width: 11vw;
+            padding: 0.5vw;
+            margin-top: 1vw;
+            background: black;
+            color: white;
+            cursor: pointer;
+            border: none;
+            border-radius: 0.5vw;
+            font-size: 1.0vw;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+    }
+
+}
+
+#resultado h1{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1vw;
+}
