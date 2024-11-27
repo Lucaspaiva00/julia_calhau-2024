@@ -4,8 +4,7 @@
 </div> 
 
 
-## Link do Meet: https://meet.google.com/bfk-xsdr-rmi
-
+## Link do Meet: https://meet.google.com/ott-ttxb-sux
 # Programação Front-End
 Vamos fazer agora um site para consulta de previsão do tempo pelo site OpenWeather
 
