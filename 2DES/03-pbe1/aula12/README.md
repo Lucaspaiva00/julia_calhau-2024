@@ -53,3 +53,5 @@ CREATE TABLE pedidos(
     FOREIGN KEY (idtelefone) REFERENCES telefone(idtelefone)
 );
 ```
+
+![alt text](<WhatsApp Image 2024-11-27 at 09.11.43.jpeg>)
