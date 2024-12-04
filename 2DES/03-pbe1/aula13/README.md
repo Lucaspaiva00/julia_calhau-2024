@@ -16,8 +16,8 @@ DROP DATABASE IF EXISTS vitoriakar;
 CREATE DATABASE IF NOT EXISTS vitoriakar;
 USE vitoriakar;
 
-CREATE TABLE alunos(
-    aluno_id int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+CREATE TABLE clientes(
+    cliente_id int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
     nome varchar(255) NOT NULL,
     cpf varchar(11) NOT NULL UNIQUE,
     email varchar(255) NOT NULL UNIQUE,
