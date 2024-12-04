@@ -38,11 +38,11 @@ CREATE TABLE professor(
 
 CREATE TABLE telefone (
     telefone_id int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    aluno_id int(10),
+    cliente_id int(10),
     professor_id int(10),
     numero varchar(20) NOT NULL,
     tipo enum('residencial', 'comercial', 'celular') NOT NULL,
-    FOREIGN KEY (aluno_id) REFERENCES alunos(aluno_id),
+    FOREIGN KEY (cliente_id) REFERENCES clientes(cliente_id),
     FOREIGN KEY (professor_id) REFERENCES professor(professor_id)
 );
 
