@@ -71,7 +71,7 @@ CRUD de veiculos:  Implementar operações CRUD (Create, Read, *Update*, Delete)
 |Repostirório no Git Contendo:
 API back-end com os CRUDs no padrão MVC em uma pasta "api"
 Arquivo insomnia.json com todas as rotas de teste na pasta "testes"
-Data: 01/11/2024, <a href="#">FORMS</a>|
+Data: 04/12/2024, <a href="#">FORMS</a>|
 
 |Critério|Fundamentos técnicos, científicos ou capacidades técnicas|Critérios|
 |-|-|-|
